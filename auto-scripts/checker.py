@@ -1,73 +1,71 @@
 import json
-import sys
 import os
-from alert import send_discord_alert
 from datetime import datetime
 from pathlib import Path
+from logger import log_info, log_error, log_warning, log_success
+
 
 def run_initial_state_check():
-    
-    # Path configuration for local testing
-    SCRIPT_DIR = Path(__file__).resolve().parent
-    REPO_ROOT = SCRIPT_DIR.parent
-    STATE_FILE_PATH = REPO_ROOT / "public" / "state.json"
-    
-    # Ensure the state file exists for local development fallback
-    if not os.path.exists(STATE_FILE_PATH):
-        print(f"[CHECKER ERROR] State file not found at: {STATE_FILE_PATH}")
-        send_discord_alert(f"🚨**[CHECKER ERROR]** State file not found at: {STATE_FILE_PATH}")
-        print("Please create a 'state.json' file with initial values. Execution halted.")
-        sys.exit(1)
-        
+    """
+    Validates state.json to determine if the pipeline should run for the current year.
+    Returns target_academic_year (str) if ready to run, or False if completed/lagged.
+    """
+    script_dir = Path(__file__).resolve().parent
+    repo_root = script_dir.parent
+    state_file_path = repo_root / "public" / "state.json"
+
+    # 1. State File Existence Check
+    if not os.path.exists(state_file_path):
+        log_error(f"State file not found at: {state_file_path}")
+        log_error("Please create a 'public/state.json' file with initial values. Execution halted.")
+        return False
+
     try:
-        with open(STATE_FILE_PATH, 'r') as f:
+        with open(state_file_path, "r", encoding="utf-8") as f:
             state_data = json.load(f)
-    except json.JSONDecodeError:
-        print(f"[CHECKER ERROR] Fail to parse JSON from {STATE_FILE_PATH}. Check file formatting.")
-        send_discord_alert(f"🚨**[CHECKER ERROR]** Fail to parse JSON from {STATE_FILE_PATH}. Check file formatting.")
+    except json.JSONDecodeError as e:
+        log_error(f"Failed to parse JSON from {state_file_path}: {e}")
         return False
 
     target_academic_year = state_data.get("target_academic_year")
     if not target_academic_year:
-        print("[CHECKER ERROR] 'target_academic_year' key missing in state.json.")
-        send_discord_alert("🚨**[CHECKER ERROR]** 'target_academic_year' key missing in state.json.")
+        log_error("'target_academic_year' key missing in state.json.")
         return False
 
     # 2. Extract Years
     try:
-        # Splits "20XX-20XY" and grabs the integer 20XX
-        target_start_year = int(target_academic_year.split('-')[0])
+        # Splits "20XX-20XY" and grabs integer 20XX
+        target_start_year = int(target_academic_year.split("-")[0])
     except (ValueError, IndexError):
-        print(f"[CHECKER ERROR] Invalid target format: {target_academic_year}. Expected YYYY-YYYY.")
-        send_discord_alert(f"🚨**[CHECKER ERROR]** Invalid target format: {target_academic_year}. Expected YYYY-YYYY.")
+        log_error(f"Invalid target academic year format: '{target_academic_year}'. Expected YYYY-YYYY.")
         return False
 
     current_system_year = datetime.now().year
+    log_info(f"Target Academic Year : {target_academic_year} (Start: {target_start_year})")
+    log_info(f"Current System Year  : {current_system_year}")
 
-    print(f"[INFO] Target Engine Year: {target_start_year} | System Year: {current_system_year}")
-
-    # 3. The Logic Routing
+    # 3. Logic Routing
     # Case A: Target > Current (Already Completed)
     if target_start_year > current_system_year:
-        print(f"[PROCESS] Engine is waiting for {target_start_year}. Current year ({current_system_year}) is already processed. Exiting cleanly.")
+        log_info(
+            f"Pipeline is waiting for {target_academic_year}. "
+            f"Current year ({current_system_year}) is already processed. Exiting cleanly."
+        )
         return False
 
     # Case B: Target == Current (Time to Run)
     elif target_start_year == current_system_year:
-        print("[PROCESS] Target year matches current year. Proceeding to web scraping phase...")
+        log_success(f"Target year '{target_academic_year}' matches current year. Proceeding to web scraping phase...")
         return target_academic_year
 
     # Case C: Target < Current (State Lag / Failure)
-    elif target_start_year < current_system_year:
-        error_msg = (
-            f"### 🚨**[CHECKER ERROR]** Syllabus Engine Fatal State Error\n"
-            f"- **Issue:** Target year (`{target_start_year}`) is strictly less than System year (`{current_system_year}`).\n"
-            f"- **Meaning:** The pipeline failed to increment the year during a previous execution, or the automation silently died.\n"
-            f"- **Action Required:** Manual intervention needed. Check logs and update `state.json`."
-        )
-        print("[ERROR] State lag detected. Pushing alert to Discord...")
-        send_discord_alert(error_msg)
-        return False 
+    else:
+        log_error("State lag detected in public/state.json!")
+        log_error(f"  Target Year : {target_start_year}")
+        log_error(f"  System Year : {current_system_year}")
+        log_error("  Meaning     : The pipeline failed to increment during a previous execution.")
+        log_error("  Action      : Manual intervention needed. Check state.json.")
+        return False
 
 
 if __name__ == "__main__":

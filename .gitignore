@@ -22,3 +22,19 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Environment Variables
+.env
+.env.*
+
+# Python caches and local runtime dumps
+__pycache__/
+*.py[cod]
+current_image_output.json
+auto-scripts/current_image_output.json
+extracted_tables/
+syllabus_pdfs/
+auto-scripts/extracted_tables/
+auto-scripts/syllabus_pdfs/
+pipeline.log
+auto-scripts/pipeline.log

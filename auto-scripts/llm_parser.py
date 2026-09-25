@@ -1,18 +1,15 @@
 import os
 import json
 import time
-import base64
-import sys
-from groq import Groq
-from alert import send_discord_alert
+import re
+from pathlib import Path
+import ollama
 from dotenv import load_dotenv
+from logger import log_info, log_error, log_warning, log_success
 
 load_dotenv()
 
-
-def encode_image(image_path):
-    with open(image_path, "rb") as image_file:
-        return base64.b64encode(image_file.read()).decode("utf-8")
+REPO_ROOT = Path(__file__).resolve().parent.parent
 
 
 def validate_structure(data):
@@ -38,47 +35,65 @@ def validate_structure(data):
 
 
 def process_vision_data(
-    INPUT_DIR: str = "extracted_tables", RATE_LIMIT_DELAY: int = 5
-) -> bool:
+    input_dir_name: str = "extracted_tables", rate_limit_delay: int = 1
+):
     """
-    LLM ENGINE: Parses images to JSON. Implements API Key rotation on 429 limits.
-    Returns True on total success, False on hard crash or total token exhaustion.
+    LLM ENGINE (Ollama Local):
+    Parses table images to structured JSON using local Ollama model (qwen3.5:4b).
+    Returns master_data dictionary on success, or None/False on failure.
     """
-    # 1. API Key Rotation Setup
-    api_keys = [os.getenv("GROQ_API_KEY_1"), os.getenv("GROQ_API_KEY_2")]
-    api_keys = [k for k in api_keys if k]  # Filter out missing keys
+    # 1. Ollama Configuration & Client Initialization
+    ollama_host = os.getenv("OLLAMA_HOST", "http://192.168.0.13:11434")
+    model_name = os.getenv("OLLAMA_MODEL", "qwen3.5:4b")
+    ollama_api_key = os.getenv("OLLAMA_API_KEY")
+    num_predict = int(os.getenv("OLLAMA_NUM_PREDICT", "4096"))
+    temperature = float(os.getenv("OLLAMA_TEMPERATURE", "0.2"))
 
-    if not api_keys:
-        error_msg = "### 🚨 Phase 4 ABORTED: Authentication Error\nNo Groq API keys found in environment variables."
-        print(error_msg)
-        send_discord_alert(error_msg)
-        return None  # Changed from False
+    headers = {}
+    if ollama_api_key:
+        headers["Authorization"] = f"Bearer {ollama_api_key}"
 
-    current_key_index = 0
-    client = Groq(api_key=api_keys[current_key_index])
-    print(
-        f"[LLM PARSER] Initialized with Key {current_key_index + 1}. Total keys available: {len(api_keys)}"
-    )
+    try:
+        client = ollama.Client(
+            host=ollama_host,
+            headers=headers if headers else None
+        )
+        log_info(f"Initialized Ollama Client at '{ollama_host}' using model '{model_name}'.")
+    except Exception as e:
+        log_error(f"Failed to initialize Ollama client at '{ollama_host}': {e}")
+        return None
 
     # 2. State Initialization
     master_data = {}
-
     completed_files = set()
-    image_files = sorted([f for f in os.listdir(INPUT_DIR) if f.endswith(".png")])
+
+    input_path = REPO_ROOT / input_dir_name
+
+    # Check alternative path if not directly in REPO_ROOT
+    if not input_path.exists():
+        alt_path = Path(__file__).resolve().parent / input_dir_name
+        if alt_path.exists():
+            input_path = alt_path
+        else:
+            log_error(f"Input directory '{input_path}' does not exist. Halting.")
+            return None
+
+    image_files = sorted([f for f in os.listdir(input_path) if f.endswith(".png")])
     total_files = len(image_files)
 
     if total_files == 0:
-        print("[LLM PARSER] No images found to process. Exiting cleanly.")
+        log_warning(f"No PNG table images found in '{input_path}'. Exiting.")
         return None
+
+    log_info(f"Located {total_files} table images to parse.")
 
     # 3. Execution Loop
     for index, filename in enumerate(image_files, 1):
         if filename in completed_files:
-            print(f"[{index}/{total_files}] Skipping {filename}... (Already parsed)")
             continue
 
-        image_path = os.path.join(INPUT_DIR, filename)
-        print(f"[{index}/{total_files}] Processing {filename}...")
+        image_file_path = input_path / filename
+        log_info(f"[{index}/{total_files}] Parsing: {filename}")
 
         # Dynamic System Prompt injecting filename as fallback context
         system_prompt = f"""You are a strict data extraction parser. Extract academic syllabus details from the table in the image into a specific JSON object structure.
@@ -131,41 +146,49 @@ Return ONLY valid JSON matching this exact schema. No markdown formatting blocks
 
         while not processing_complete:
             try:
-                base64_image = encode_image(image_path)
-
-                # AFTER
-                response = client.chat.completions.create(
-                    model="qwen/qwen3.8-27b",
+                response = client.chat(
+                    model=model_name,
                     messages=[
                         {
                             "role": "user",
-                            "content": [
-                                {"type": "text", "text": system_prompt},
-                                {
-                                    "type": "image_url",
-                                    "image_url": {
-                                        "url": f"data:image/png;base64,{base64_image}"
-                                    },
-                                },
-                            ],
+                            "content": system_prompt,
+                            "images": [str(image_file_path)],
                         }
                     ],
-                    temperature=0.0,  # keep deterministic extraction behavior
-                    max_completion_tokens=3048,
-                    top_p=1,
-                    stream=False,
-                    stop=None,
+                    options={
+                        "temperature": temperature,
+                        "num_predict": num_predict,
+                    },
+                    think=False,
                 )
 
-                raw_output = response.choices[0].message.content.strip()
+                # Extract response text safely across different client return shapes
+                if hasattr(response, "message") and hasattr(response.message, "content"):
+                    raw_output = response.message.content
+                elif isinstance(response, dict) and "message" in response:
+                    raw_output = response["message"]["content"]
+                else:
+                    raw_output = str(response)
+
+                raw_output = raw_output.strip()
+
+                # Clean thinking trace if leaked in content
+                raw_output = re.sub(r"<think>[\s\S]*?</think>", "", raw_output).strip()
+
+                # Strip markdown code blocks if the model wrapped output in fences
+                if "```" in raw_output:
+                    match = re.search(r"```(?:json)?\s*([\s\S]*?)\s*```", raw_output)
+                    if match:
+                        raw_output = match.group(1).strip()
+                    else:
+                        raw_output = raw_output.replace("```json", "").replace("```", "").strip()
+
                 extracted_json = json.loads(raw_output)
 
                 # --- DATA NORMALIZATION PEELER ---
                 data_list = []
                 if isinstance(extracted_json, dict):
-                    if "data" in extracted_json and isinstance(
-                        extracted_json["data"], list
-                    ):
+                    if "data" in extracted_json and isinstance(extracted_json["data"], list):
                         data_list = extracted_json["data"]
                     else:
                         for key, value in extracted_json.items():
@@ -175,17 +198,11 @@ Return ONLY valid JSON matching this exact schema. No markdown formatting blocks
 
                 # --- SCHEMA VALIDATION ---
                 if not validate_structure(data_list):
-                    error_msg = (
-                        f"### 🚨 Phase 4 ABORTED: Structural Hallucination\n"
-                        f"- **File:** `{filename}`\n"
-                        f"- **Details:** Model returned invalid JSON schema. Execution halted."
-                    )
-                    print(error_msg)
-                    send_discord_alert(error_msg)
+                    log_error(f"Structural Validation Failed for '{filename}': Invalid schema returned by model.")
                     return False
 
                 # --- DATA INJECTION ---
-                # --- DATA INJECTION ---
+                total_extracted_subs = 0
                 if data_list:
                     for block in data_list:
                         prog = block["PROGRAM"]
@@ -202,59 +219,37 @@ Return ONLY valid JSON matching this exact schema. No markdown formatting blocks
 
                         for sub_name, sub_details in subs.items():
                             master_data[prog][dept][sem][sub_name] = sub_details
+                            total_extracted_subs += 1
+
+                # Save single image JSON to file for live inspection
+                current_output_path = REPO_ROOT / "current_image_output.json"
+                try:
+                    with open(current_output_path, "w", encoding="utf-8") as f:
+                        json.dump(extracted_json, f, indent=2, ensure_ascii=False)
+                except Exception as io_err:
+                    log_warning(f"Failed to write current_image_output.json: {io_err}")
 
                 completed_files.add(filename)
                 processing_complete = True
-                print(f"  -> Success. Data merged in memory.")
+                log_info(f"  -> Extracted {total_extracted_subs} subject(s). Merged into memory.")
 
-                time.sleep(RATE_LIMIT_DELAY)
+                # Rest GPU between image runs
+                gpu_rest_delay = int(os.getenv("GPU_REST_DELAY", rate_limit_delay))
+                if gpu_rest_delay > 0:
+                    time.sleep(gpu_rest_delay)
 
             except Exception as e:
                 error_str = str(e)
-
-                # --- 429 RATE LIMIT HANDLING & ROTATION ---
-                if "429" in error_str:
-                    print(
-                        f"  -> [WARNING] Rate limit (429) hit on Key {current_key_index + 1}."
-                    )
-
-                    # Attempt Rotation
-                    if current_key_index < len(api_keys) - 1:
-                        current_key_index += 1
-                        print(
-                            f"  -> [ROTATION] Switching to Key {current_key_index + 1}..."
-                        )
-                        client = Groq(api_key=api_keys[current_key_index])
-                        time.sleep(5)
-                        continue
-                    else:
-                        error_msg = "### 🚨 Phase 4 ABORTED: Exhausted API Limits\nAll provided Groq keys hit 429 limits. Process halted. Progress has been saved."
-                        print(error_msg)
-                        send_discord_alert(error_msg)
-                        return False
-
-                # --- STANDARD ERROR RETRY LOGIC ---
+                retry_count += 1
+                if retry_count <= max_retries:
+                    log_warning(f"Error on '{filename}': {e} | Retrying in 1s (Attempt {retry_count}/{max_retries})...")
+                    time.sleep(1)
                 else:
-                    retry_count += 1
-                    if retry_count <= max_retries:
-                        print(
-                            f"  -> ERROR on {filename}: {e}\n  -> Retrying in 5 seconds..."
-                        )
-                        time.sleep(5)
-                    else:
-                        error_msg = f"### 🚨 Phase 4 ABORTED: API Exception\nPersistent error on `{filename}` after {max_retries} retries: `{error_str}`"
-                        print(error_msg)
-                        send_discord_alert(error_msg)
-                        return False
+                    log_error(f"Persistent failure on '{filename}' after {max_retries} retries: {error_str}")
+                    return False
 
-    # 4. Final Success Alert
-    success_msg = (
-        f"### ✅ Phase 4 Completed: LLM Compilation Engine\n"
-        f"- **Images Parsed:** {total_files}\n"
-        f"- **Status:** Proceeding to final verification."
-    )
-    print(success_msg)
-    send_discord_alert(success_msg)
+    # 4. Final Success Log
+    log_success(f"LLM compilation engine complete! Parsed all {total_files} table images cleanly using '{model_name}'.")
     return master_data
 
 

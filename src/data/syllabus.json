@@ -3,683 +3,687 @@
     "CIVIL ENGINEERING": {
       "2": {
         "ENGLISH LANGUAGE AND COMMUNICATION": {
-          "COURSE CODE": "U25HS010EH",
+          "COURSE CODE": "U26HS010EH",
           "CREDITS": "2"
         },
         "HUMAN VALUES AND PROFESSIONAL ETHICS-II": {
-          "COURSE CODE": "U25HS020EH",
+          "COURSE CODE": "U26HS020EH",
           "CREDITS": "1"
         },
         "LEARNING TO LEARN": {
-          "COURSE CODE": "U25HS040EH",
+          "COURSE CODE": "U26HS040EH",
           "CREDITS": "1"
         },
         "BUILDING MATERIALS AND CONSTRUCTION": {
-          "COURSE CODE": "U25BS210CE",
+          "COURSE CODE": "U26BS210CE",
           "CREDITS": "3"
         },
-        "DIFFERENTIAL EQUATIONS & VECTOR CALCULUS": {
-          "COURSE CODE": "U25BS210MA",
+        "DIFFERENTIAL EQUATIONS & MULTIVARIABLE CALCULUS": {
+          "COURSE CODE": "U26BS220MA",
           "CREDITS": "3"
         },
         "OPTICS, ACOUSTICS AND SENSORS": {
-          "COURSE CODE": "U25BS220PH",
+          "COURSE CODE": "U26BS220PH",
           "CREDITS": "2"
         },
         "ENGINEERING DRAWING - II": {
-          "COURSE CODE": "U25ES220CE",
+          "COURSE CODE": "U26ES220CE",
           "CREDITS": "2"
         },
         "ENGINEERING MECHANICS -DYNAMICS": {
-          "COURSE CODE": "U25ES230CE",
+          "COURSE CODE": "U26ES230CE",
           "CREDITS": "3"
         },
         "ENGLISH LANGUAGE AND COMMUNICATION SKILLS LAB": {
-          "COURSE CODE": "U25HS011EH",
+          "COURSE CODE": "U26HS011EH",
           "CREDITS": "1"
         },
         "ENGINEERING PHYSICS LAB": {
-          "COURSE CODE": "U25BS221PH",
+          "COURSE CODE": "U26BS221PH",
           "CREDITS": "1"
         }
       },
       "1": {
         "HUMAN VALUES AND PROFESSIONAL ETHICS-I": {
-          "COURSE CODE": "U25HS010EH",
+          "COURSE CODE": "U26HS020EH",
           "CREDITS": "1"
         },
-        "APPLIED CHEMISTRY FOR CIVIL ENGINEERING": {
-          "COURSE CODE": "U25BS110CH",
+        "APPLIED CHEMISTRY FOR CIVIL ENGINEERS": {
+          "COURSE CODE": "U26BS110CH",
           "CREDITS": "2"
         },
-        "MATRICES AND CALCULUS": {
-          "COURSE CODE": "U25BS110MA",
+        "MATRIX THEORY AND DIFFERENTIAL CALCULUS": {
+          "COURSE CODE": "U26BS120MA",
           "CREDITS": "3"
         },
         "ENGINEERING MECHANICS -STATICS": {
-          "COURSE CODE": "U25ES110CE",
+          "COURSE CODE": "U26ES110CE",
           "CREDITS": "3"
         },
-        "ENGINEERING DRAWING - I": {
-          "COURSE CODE": "U25ES120CE",
+        "BASIC ELECTRICAL ENGINEERING FOR CIVIL ENGINEERS": {
+          "COURSE CODE": "U26ES110EE",
           "CREDITS": "2"
         },
-        "BASIC ELECTRICAL ENGINEERING FOR CIVIL ENGINEERS": {
-          "COURSE CODE": "U25ES110EE",
+        "ENGINEERING DRAWING - I": {
+          "COURSE CODE": "U26ES120CE",
           "CREDITS": "2"
         },
         "ENVIRONMENTAL SCIENCE": {
-          "COURSE CODE": "U25MC010CE",
+          "COURSE CODE": "U26MC010CE",
           "CREDITS": "0"
         },
         "CHEMISTRY LAB": {
-          "COURSE CODE": "U25BS011CH",
-          "CREDITS": "1"
-        },
-        "BASIC ELECTRICAL ENGINEERING LAB FOR CIVIL ENGINEERS": {
-          "COURSE CODE": "U25ES111EE",
+          "COURSE CODE": "U26BS011CH",
           "CREDITS": "1"
         },
         "WORKSHOP PRACTICE": {
-          "COURSE CODE": "U25ES012ME",
+          "COURSE CODE": "U26ES011ME",
+          "CREDITS": "1"
+        },
+        "BASIC ELECTRICAL ENGINEERING LAB FOR CIVIL ENGINEERS": {
+          "COURSE CODE": "U26ES111EE",
           "CREDITS": "1"
         }
       },
       "4": {
-        "NUMERICAL METHODS, PROBABILITY AND STATISTICS": {
-          "COURSE CODE": "U24BS410MA",
-          "CREDITS": "3"
-        },
         "SKILL DEVELOPMENT COURSE-III (APTITUDE-II)": {
-          "COURSE CODE": "U24BS430MA",
+          "COURSE CODE": "U25HS430MA",
           "CREDITS": "1"
         },
+        "NUMERICAL METHODS, PROBABILITY AND STATISTICS": {
+          "COURSE CODE": "U25BS410MA",
+          "CREDITS": "3"
+        },
         "PRINCIPLES OF DATA STRUCTURES FOR CIVIL ENGINEERING": {
-          "COURSE CODE": "U24ES410CE",
+          "COURSE CODE": "U25ES410CE",
           "CREDITS": "3"
         },
         "STRENGTH OF MATERIALS - II": {
-          "COURSE CODE": "U24PC410CE",
-          "CREDITS": "3"
-        },
-        "CONCRETE TECHNOLOGY": {
-          "COURSE CODE": "U24PC420CE",
+          "COURSE CODE": "U25PC410CE",
           "CREDITS": "3"
         },
         "FLUID MECHANICS": {
-          "COURSE CODE": "U24PC430CE",
+          "COURSE CODE": "U25PC430CE",
+          "CREDITS": "3"
+        },
+        "CONCRETE TECHNOLOGY": {
+          "COURSE CODE": "U25PC440CE",
           "CREDITS": "3"
         },
         "SKILL DEVELOPMENT COURSE-IV (TECHNICAL SKILLS-I)": {
-          "COURSE CODE": "U24PE410CE",
+          "COURSE CODE": "U25PE410CE",
           "CREDITS": "1"
         },
         "OPEN ELECTIVE-II": {
-          "COURSE CODE": "U240EXXXXX",
+          "COURSE CODE": "U25OEXXXX",
           "CREDITS": "3"
         },
         "PRINCIPLES OF DATA STRUCTURES FOR CIVIL ENGINEERING LAB": {
-          "COURSE CODE": "U24ES411CE",
+          "COURSE CODE": "U25ES411CE",
           "CREDITS": "1"
         },
         "STRENGTH OF MATERIALS LAB": {
-          "COURSE CODE": "U24PC411CE",
+          "COURSE CODE": "U25PC411CE",
           "CREDITS": "1"
         },
         "FLUID MECHANICS LAB": {
-          "COURSE CODE": "U24PC421CE",
+          "COURSE CODE": "U25PC421CE",
           "CREDITS": "1"
         }
       },
       "3": {
-        "HUMAN VALUES AND PROFESSIONAL ETHICS-II": {
-          "COURSE CODE": "U24HS020EH",
-          "CREDITS": "1"
-        },
-        "SKILL DEVELOPMENT COURSE-I (COMMUNICATION SKILLS-I)": {
-          "COURSE CODE": "U24HS320EH",
-          "CREDITS": "1"
-        },
-        "SKILL DEVELOPMENT COURSE-II (APTITUDE-I)": {
-          "COURSE CODE": "U24BS330MA",
-          "CREDITS": "1"
-        },
         "CRITICAL THINKING": {
-          "COURSE CODE": "U24HS350EH",
+          "COURSE CODE": "U25HS310EH",
+          "CREDITS": "1"
+        },
+        "SKILL DEVELOPMENT COURSE-I (COMMUNICATION SKILLS IN ENGLISH-I)": {
+          "COURSE CODE": "U25HS320EH",
           "CREDITS": "1"
         },
         "TRANSFORM TECHNIQUES AND PARTIAL DIFFERENTIAL EQUATIONS": {
-          "COURSE CODE": "U24BS310MA",
+          "COURSE CODE": "U25BS310MA",
           "CREDITS": "3"
         },
+        "SKILL DEVELOPMENT COURSE-II (APTITUDE-I)": {
+          "COURSE CODE": "U25BS330MA",
+          "CREDITS": "1"
+        },
         "PROGRAMMING FOR CIVIL ENGINEERING": {
-          "COURSE CODE": "U24ES310CE",
+          "COURSE CODE": "U25ES310CE",
           "CREDITS": "3"
         },
         "STRENGTH OF MATERIALS - I": {
-          "COURSE CODE": "U24PC310CE",
+          "COURSE CODE": "U25PC310CE",
           "CREDITS": "3"
         },
         "SURVEYING": {
-          "COURSE CODE": "U24PC320CE",
-          "CREDITS": "3"
+          "COURSE CODE": "U25PC320CE",
+          "CREDITS": "4"
         },
         "OPEN ELECTIVE-I": {
-          "COURSE CODE": "U24OEXXXX",
+          "COURSE CODE": "U25OEXXXX",
           "CREDITS": "2"
         },
         "PROGRAMMING FOR CIVIL ENGINEERING LAB": {
-          "COURSE CODE": "U24ES311CE",
+          "COURSE CODE": "U25ES311CE",
           "CREDITS": "1"
         },
         "SURVEYING LAB": {
-          "COURSE CODE": "U24PC311CE",
+          "COURSE CODE": "U25PC311CE",
           "CREDITS": "1"
         },
         "COMPUTER AIDED DRAFTING LAB": {
-          "COURSE CODE": "U24PC321CE",
+          "COURSE CODE": "U25PC321CE",
           "CREDITS": "1"
         }
       },
       "6": {
         "ECONOMICS & FINANCE FOR ENGINEERS": {
-          "COURSE CODE": "U23HS040EH",
+          "COURSE CODE": "U24HS040EH",
           "CREDITS": "2"
         },
-        "SKILL DEVELOPMENT COURSE-VII (VERBAL ABILITY)": {
-          "COURSE CODE": "U23HS630EH",
+        "SKILL DEVELOPMENT COURSE-VII (APTITUDE-III)": {
+          "COURSE CODE": "U24BS610MA",
           "CREDITS": "1"
         },
         "DESIGN OF STEEL STRUCTURES": {
-          "COURSE CODE": "U23PC610CE",
+          "COURSE CODE": "U24PC610CE",
           "CREDITS": "4"
         },
         "SOIL MECHANICS": {
-          "COURSE CODE": "U23PC620CE",
-          "CREDITS": "3"
+          "COURSE CODE": "U24PC620CE",
+          "CREDITS": "4"
         },
         "HIGHWAY ENGINEERING": {
-          "COURSE CODE": "U23PC640CE",
+          "COURSE CODE": "U24PC630CE",
           "CREDITS": "3"
         },
         "CONSTRUCTION MANAGEMENT AND ADMINISTRATION": {
-          "COURSE CODE": "U23PC650CE",
+          "COURSE CODE": "U24PC640CE",
           "CREDITS": "3"
         },
         "SKILL DEVELOPMENT COURSE-VIII (TECHNICAL SKILLS-III)": {
-          "COURSE CODE": "U23PE610CE",
+          "COURSE CODE": "U24PE610CE",
           "CREDITS": "1"
         },
         "OPEN ELECTIVE-IV": {
-          "COURSE CODE": "U23OEXXXXX",
+          "COURSE CODE": "U24OEXXXX",
           "CREDITS": "3"
         },
         "SOIL MECHANICS LAB": {
-          "COURSE CODE": "U23PC621CE",
+          "COURSE CODE": "U24PC611CE",
           "CREDITS": "1"
         },
         "COMPUTER AIDED STRUCTURAL ENGINEERING LAB": {
-          "COURSE CODE": "U23PC631CE",
+          "COURSE CODE": "U24PC621CE",
           "CREDITS": "1"
         },
         "HIGHWAY ENGINEERING LAB": {
-          "COURSE CODE": "U23PC641CE",
+          "COURSE CODE": "U24PC631CE",
           "CREDITS": "1"
         },
         "THEME BASED PROJECT": {
-          "COURSE CODE": "U23PW619CE",
+          "COURSE CODE": "U24PW619CE",
+          "CREDITS": "1"
+        },
+        "HYDRAULICS AND HYDRAULIC MACHINERY LAB": {
+          "COURSE CODE": "U24PCS511CE",
+          "CREDITS": "1"
+        },
+        "ENVIRONMENTAL ENGINEERING LAB": {
+          "COURSE CODE": "U24PCS521CE",
+          "CREDITS": "1"
+        },
+        "CONCRETE LAB": {
+          "COURSE CODE": "U24PCS531CE",
+          "CREDITS": "1"
+        },
+        "SURVEYING CAMP": {
+          "COURSE CODE": "U24PCS541CE",
           "CREDITS": "1"
         }
       },
       "5": {
         "SKILL DEVELOPMENT COURSE-V:(COMMUNICATION SKILLS-II)": {
-          "COURSE CODE": "U23HS510EH",
+          "COURSE CODE": "U24HS510EH",
           "CREDITS": "1"
         },
         "DESIGN THINKING": {
-          "COURSE CODE": "U23HS530EH",
+          "COURSE CODE": "U24HS530EH",
           "CREDITS": "1"
         },
         "STRUCTURAL ANALYSIS": {
-          "COURSE CODE": "U23PC510CE",
+          "COURSE CODE": "U24PCS510CE",
           "CREDITS": "3"
         },
         "HYDRAULICS AND HYDRAULIC MACHINERY": {
-          "COURSE CODE": "U23PC520CE",
-          "CREDITS": "4"
+          "COURSE CODE": "U24PCS520CE",
+          "CREDITS": "3"
         },
         "ENVIRONMENTAL ENGINEERING": {
-          "COURSE CODE": "U23PC530CE",
+          "COURSE CODE": "U24PCS530CE",
           "CREDITS": "3"
         },
         "REINFORCED CONCRETE DESIGN": {
-          "COURSE CODE": "U23PC540CE",
+          "COURSE CODE": "U24PCS540CE",
           "CREDITS": "3"
         },
         "SKILL DEVELOPMENT COURSE-VI:(TECHNICAL SKILLS-II)": {
-          "COURSE CODE": "U23PE510CE",
+          "COURSE CODE": "U24PE510CE",
           "CREDITS": "1"
         },
         "OPEN ELECTIVE-III": {
-          "COURSE CODE": "U23OEXXXXX",
+          "COURSE CODE": "U24OEXXXX",
           "CREDITS": "3"
-        },
-        "HYDRAULICS AND HYDRAULIC MACHINERY LAB": {
-          "COURSE CODE": "U23PC521CE",
-          "CREDITS": "1"
-        },
-        "ENVIRONMENTAL ENGINEERING LAB": {
-          "COURSE CODE": "U23PC531CE",
-          "CREDITS": "1"
-        },
-        "CONCRETE LAB": {
-          "COURSE CODE": "U23PC541CE",
-          "CREDITS": "1"
-        },
-        "SURVEYING CAMP": {
-          "COURSE CODE": "U23PC551CE",
-          "CREDITS": "1"
         }
       },
       "8": {
         "PROFESSIONAL ELECTIVE - III": {
-          "COURSE CODE": "U22PE8XXCE",
+          "COURSE CODE": "U23PE8XXCE",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE - IV": {
-          "COURSE CODE": "U22PE8XXCE",
+          "COURSE CODE": "U23PE8XXCE",
           "CREDITS": "3"
         },
         "PROJECT / INTERNSHIP": {
-          "COURSE CODE": "U22PW819CE",
+          "COURSE CODE": "U23PW819CE",
           "CREDITS": "6"
         }
       },
       "7": {
         "FINITE ELEMENT METHOD": {
-          "COURSE CODE": "U22PC710CE",
+          "COURSE CODE": "U23PC710CE",
           "CREDITS": "3"
         },
         "ESTIMATION & SPECIFICATIONS": {
-          "COURSE CODE": "U22PC720CE",
+          "COURSE CODE": "U23PC720CE",
           "CREDITS": "3"
         },
         "WATER RESOURCES ENGINEERING": {
-          "COURSE CODE": "U22PC730CE",
+          "COURSE CODE": "U23PC730CE",
           "CREDITS": "3"
         },
         "FOUNDATION ENGINEERING": {
-          "COURSE CODE": "U22PC740CE",
+          "COURSE CODE": "U23PC740CE",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE - I": {
-          "COURSE CODE": "U22PE7XXCE",
+          "COURSE CODE": "U23PE7XXCE",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE - II": {
-          "COURSE CODE": "U22PE7XXCE",
+          "COURSE CODE": "U23PE7XXCE",
           "CREDITS": "3"
         },
         "FINITE ELEMENT METHOD LAB": {
-          "COURSE CODE": "U22PC711CE",
+          "COURSE CODE": "U23PC711CE",
           "CREDITS": "1"
         },
         "PROFESSIONAL ELECTIVE-I LAB": {
-          "COURSE CODE": "U22PE71XCE",
+          "COURSE CODE": "U23PE72XCE",
           "CREDITS": "1"
         },
         "PROFESSIONAL ELECTIVE-II LAB": {
-          "COURSE CODE": "U22PE71XCE",
+          "COURSE CODE": "U23PE73XCE",
           "CREDITS": "1"
         },
         "PROJECT SEMINAR": {
-          "COURSE CODE": "U22PW719CE",
+          "COURSE CODE": "U23PW712CE",
           "CREDITS": "1"
+        },
+        "NPTEL CERTIFICATE COURSE": {
+          "COURSE CODE": "-",
+          "CREDITS": "2"
         }
       }
     },
     "COMPUTER SCIENCE AND ENGINEERING (AI & ML)": {
       "2": {
         "ENGLISH LANGUAGE AND COMMUNICATION": {
-          "COURSE CODE": "U25HS010EH",
+          "COURSE CODE": "U26HS010EH",
           "CREDITS": "2"
         },
         "ADVANCED CALCULUS": {
-          "COURSE CODE": "U25BS220MA",
+          "COURSE CODE": "U26BS220MA",
           "CREDITS": "3"
         },
         "MATERIAL CHEMISTRY": {
-          "COURSE CODE": "U25BS210CH",
+          "COURSE CODE": "U26BS210CH",
           "CREDITS": "2"
         },
         "BASIC ELECTRICAL ENGINEERING": {
-          "COURSE CODE": "U25ES010EE",
+          "COURSE CODE": "U26ES010EE",
           "CREDITS": "2"
         },
-        "LOGIC AND SWITCHING THEORY": {
-          "COURSE CODE": "UII25ES220CS",
-          "CREDITS": "3"
-        },
-        "PYTHON PROGRAMMING": {
-          "COURSE CODE": "UII25ES230CS",
+        "DATA STRUCTURE": {
+          "COURSE CODE": "UII26ES220CS",
           "CREDITS": "3"
         },
         "ENVIRONMENTAL SCIENCE": {
-          "COURSE CODE": "U25MC010CE",
+          "COURSE CODE": "U26MC010CE",
           "CREDITS": "0"
         },
         "SKILL DEVELOPMENT COURSE-II (TECHNICAL SKILLS-II)": {
-          "COURSE CODE": "UII25PE210CS",
+          "COURSE CODE": "UII26PE210CS",
           "CREDITS": "1"
         },
         "ENGLISH LANGUAGE AND COMMUNICATION SKILLS LAB": {
-          "COURSE CODE": "U25HS011EH",
+          "COURSE CODE": "U26HS011EH",
           "CREDITS": "1"
         },
         "CHEMISTRY LAB": {
-          "COURSE CODE": "U25BS011CH",
+          "COURSE CODE": "U26BS011CH",
           "CREDITS": "1"
         },
         "BASIC ELECTRICAL ENGINEERING LAB": {
-          "COURSE CODE": "U25ES011EE",
+          "COURSE CODE": "U26ES011EE",
+          "CREDITS": "1"
+        },
+        "DATA STRUCTURE LAB": {
+          "COURSE CODE": "UII26ES221CS",
           "CREDITS": "1"
         },
         "PYTHON PROGRAMMING LAB": {
-          "COURSE CODE": "UII25ES231CS",
+          "COURSE CODE": "UII26ES231CS",
+          "CREDITS": "1"
+        },
+        "SEMICONDUCTOR AND OPTOELECTRONICS LAB": {
+          "COURSE CODE": "U26BS111PH",
+          "CREDITS": "1"
+        },
+        "PROGRAMMING FOR PROBLEM SOLVING LAB": {
+          "COURSE CODE": "UII26ES121CS",
+          "CREDITS": "1"
+        },
+        "INTRODUCTION TO ELECTRONICS ENGINEERING LAB": {
+          "COURSE CODE": "U26ES131EC",
           "CREDITS": "1"
         }
       },
       "1": {
         "CALCULUS & LINEAR ALGEBRA": {
-          "COURSE CODE": "U25BS120MA",
+          "COURSE CODE": "U26BS130MA",
           "CREDITS": "3"
         },
         "PHYSICS OF SEMICONDUCTORS": {
-          "COURSE CODE": "U25BS110PH",
+          "COURSE CODE": "U26BS110PH",
           "CREDITS": "2"
         },
         "PROGRAMMING FOR PROBLEM SOLVING": {
-          "COURSE CODE": "UII25ES120CS",
+          "COURSE CODE": "UII26ES120CS",
           "CREDITS": "3"
         },
         "INTRODUCTION TO ELECTRONICS ENGINEERING": {
-          "COURSE CODE": "U25ES130EC",
+          "COURSE CODE": "U26ES130EC",
           "CREDITS": "2"
         },
         "BASIC ENGINEERING MECHANICS": {
-          "COURSE CODE": "U25ES010CE",
+          "COURSE CODE": "U26ES010CE",
           "CREDITS": "2"
         },
         "BASIC ENGINEERING DRAWING": {
-          "COURSE CODE": "U25ES030CE",
+          "COURSE CODE": "U26ES030CE",
           "CREDITS": "2"
         },
         "HUMAN VALUES AND PROFESSIONAL ETHICS-I": {
-          "COURSE CODE": "U25HS020EH",
+          "COURSE CODE": "U26HS020EH",
           "CREDITS": "1"
         },
         "LEARNING TO LEARN": {
-          "COURSE CODE": "U25HS040EH",
+          "COURSE CODE": "U26HS040EH",
           "CREDITS": "1"
         },
         "SKILL DEVELOPMENT COURSE-I (TECHNICAL SKILLS-I)": {
-          "COURSE CODE": "UII25PE110CS",
-          "CREDITS": "1"
-        },
-        "SEMICONDUCTOR AND OPTOELECTRONICS LAB": {
-          "COURSE CODE": "U25BS111PH",
-          "CREDITS": "1"
-        },
-        "PROGRAMMING FOR PROBLEM SOLVING LAB": {
-          "COURSE CODE": "UII25ES121CS",
-          "CREDITS": "1"
-        },
-        "INTRODUCTION TO ELECTRONICS ENGINEERING LAB": {
-          "COURSE CODE": "U25ES131EC",
+          "COURSE CODE": "UII26PE110CS",
           "CREDITS": "1"
         }
       },
       "3": {
         "DATA STRUCTURES": {
-          "COURSE CODE": "UII24PC310CS",
+          "COURSE CODE": "U1125PC310CS",
           "CREDITS": "4"
         },
         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
-          "COURSE CODE": "UII24PC320CS",
+          "COURSE CODE": "U1125PC320CS",
           "CREDITS": "3"
         },
         "COMPUTER ARCHITECTURE": {
-          "COURSE CODE": "UII24PC330CS",
+          "COURSE CODE": "U1125PC330CS",
           "CREDITS": "3"
         },
         "PROBABILITY DISTRIBUTIONS & INFERENCE THEORY": {
-          "COURSE CODE": "U24BS340MA",
+          "COURSE CODE": "U25BS350MA",
           "CREDITS": "4"
         },
         "OPEN ELECTIVE-I": {
-          "COURSE CODE": "U24OE3XXXX",
+          "COURSE CODE": "U25OE3XXXX",
           "CREDITS": "2"
         },
         "CRITICAL THINKING": {
-          "COURSE CODE": "U24HS310EH",
-          "CREDITS": "1"
-        },
-        "SKILL DEVELOPMENT COURSE- I (COMMUNICATION SKILLS-I)": {
-          "COURSE CODE": "U24HS320EH",
-          "CREDITS": "1"
-        },
-        "SKILL DEVELOPMENT COURSE- II (TECHNICAL SKILLS-I)": {
-          "COURSE CODE": "UII24PE310CS",
+          "COURSE CODE": "U25HSXXXEH",
           "CREDITS": "1"
         },
         "HUMAN VALUES AND PROFESSIONAL ETHICS-II": {
-          "COURSE CODE": "U24HS030EH",
+          "COURSE CODE": "U25HS030EH",
           "CREDITS": "1"
         },
-        "DATA STRUCTURES LAB": {
-          "COURSE CODE": "UII24PC311CS",
+        "SKILL DEVELOPMENT COURSE- III (COMMUNICATION SKILLS-I)": {
+          "COURSE CODE": "U1125HS320EH",
           "CREDITS": "1"
         },
-        "OBJECT ORIENTED PROGRAMMING THROUGH JAVA LAB": {
-          "COURSE CODE": "UII24PC321CS",
+        "SKILL DEVELOPMENT COURSE- IV (TECHNICAL SKILLS-III)": {
+          "COURSE CODE": "U1125PE310CS",
           "CREDITS": "1"
         }
       },
       "4": {
         "DISCRETE STRUCTURES": {
-          "COURSE CODE": "UII24BS410MA",
+          "COURSE CODE": "UII25BS410MA",
           "CREDITS": "3"
         },
         "DATABASE MANAGEMENT SYSTEMS": {
-          "COURSE CODE": "UII24PC420CS",
+          "COURSE CODE": "UII25PC420CS",
           "CREDITS": "3"
         },
         "OPERATING SYSTEMS": {
-          "COURSE CODE": "UII24PC430CS",
+          "COURSE CODE": "UII25PC430CS",
           "CREDITS": "3"
         },
         "DESIGN AND ANALYSIS OF ALGORITHMS": {
-          "COURSE CODE": "UII24PC440CS",
-          "CREDITS": "4"
+          "COURSE CODE": "UII25PC440CS",
+          "CREDITS": "3"
         },
-        "MACHINE LEARNING": {
-          "COURSE CODE": "UII24PC450CS",
+        "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING": {
+          "COURSE CODE": "UII25PC450CS",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE-II": {
-          "COURSE CODE": "U24OE4XXXX",
+          "COURSE CODE": "U25OE4XXXX",
           "CREDITS": "3"
         },
-        "SKILL DEVELOPMENT COURSE -III (APTITUDE)": {
-          "COURSE CODE": "U24BS430MA",
+        "SKILL DEVELOPMENT COURSE -V (APTITUDE)": {
+          "COURSE CODE": "U25BS430MA",
           "CREDITS": "1"
         },
-        "SKILL DEVELOPMENT COURSE -IV (TECHNICAL SKILLS-II)": {
-          "COURSE CODE": "UII24PE410CS",
+        "SKILL DEVELOPMENT COURSE -VI (TECHNICAL SKILLS-IV)": {
+          "COURSE CODE": "UII25PE410CS",
           "CREDITS": "1"
         },
         "DATABASE MANAGEMENT SYSTEMS LAB": {
-          "COURSE CODE": "UII24PC421CS",
+          "COURSE CODE": "UII25PC421CS",
           "CREDITS": "1"
         },
         "OPERATING SYSTEMS LAB": {
-          "COURSE CODE": "UII24PC431CS",
+          "COURSE CODE": "UII25PC431CS",
           "CREDITS": "1"
         },
         "DESIGN AND ANALYSIS OF ALGORITHMS LAB": {
-          "COURSE CODE": "UII24PC441CS",
+          "COURSE CODE": "UII25PC441CS",
+          "CREDITS": "1"
+        },
+        "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING LAB": {
+          "COURSE CODE": "UII25PC451CS",
           "CREDITS": "1"
         }
       },
       "5": {
+        "INTERNET OF THINGS": {
+          "COURSE CODE": "UII24PC510CS",
+          "CREDITS": "3"
+        },
         "FULL STACK WEB DEVELOPMENT": {
-          "COURSE CODE": "UII23PC510CS",
+          "COURSE CODE": "UII24PC520CS",
           "CREDITS": "3"
         },
         "COMPUTER NETWORKS": {
-          "COURSE CODE": "UII23PC520CS",
-          "CREDITS": "3"
+          "COURSE CODE": "UII24PC530CS",
+          "CREDITS": "4"
         },
         "ARTIFICIAL INTELLIGENCE": {
-          "COURSE CODE": "UII23PC530CS",
+          "COURSE CODE": "UII24PC540CS",
           "CREDITS": "3"
-        },
-        "AUTOMATA, LANGUAGES AND COMPUTATION": {
-          "COURSE CODE": "UII23PC540CS",
-          "CREDITS": "3"
-        },
-        "ECONOMICS AND FINANCE FOR ENGINEERS": {
-          "COURSE CODE": "U23HS040EH",
-          "CREDITS": "2"
         },
         "OPEN ELECTIVE-III": {
-          "COURSE CODE": "U23OE5XXXX",
+          "COURSE CODE": "U24OE5XXXX",
           "CREDITS": "3"
         },
         "DESIGN THINKING": {
-          "COURSE CODE": "U23HS530EH",
+          "COURSE CODE": "U24HS010EH",
           "CREDITS": "1"
         },
-        "SKILL DEVELOPMENT COURSE -V(COMMUNICATION SKILLS-II )": {
-          "COURSE CODE": "U23HS510EH",
+        "SKILL DEVELOPMENT COURSE -V(COMMUNICATION SKILLS II)": {
+          "COURSE CODE": "U24HS510EH",
           "CREDITS": "1"
         },
-        "SKILL DEVELOPMENT COURSE -VI (TECHNICAL SKILLS -III)": {
-          "COURSE CODE": "UII23PE510CS",
-          "CREDITS": "1"
-        },
-        "FULL STACK WEB DEVELOPMENT LAB": {
-          "COURSE CODE": "UII23PC511CS",
-          "CREDITS": "1"
-        },
-        "COMPUTER NETWORKS LAB": {
-          "COURSE CODE": "UII23PC521CS",
-          "CREDITS": "1"
-        },
-        "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING LAB": {
-          "COURSE CODE": "UII23PC531CS",
+        "SKILL DEVELOPMENT COURSE -VI (TECHNICAL SKILLS III)": {
+          "COURSE CODE": "UII24PE510CS",
           "CREDITS": "1"
         }
       },
       "6": {
-        "INTERNET OF THINGS": {
-          "COURSE CODE": "UII23PC610CS",
+        "INTERNET OF THINGS LAB": {
+          "COURSE CODE": "UII24PC511CS",
+          "CREDITS": "1"
+        },
+        "FULL STACK WEB DEVELOPMENT LAB": {
+          "COURSE CODE": "UII24PC521CS",
+          "CREDITS": "1"
+        },
+        "COMPUTER NETWORKS LAB": {
+          "COURSE CODE": "UII24PC531CS",
+          "CREDITS": "1"
+        },
+        "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING LAB": {
+          "COURSE CODE": "UII24PC541CS",
+          "CREDITS": "1"
+        },
+        "THEME BASED PROJECT-I": {
+          "COURSE CODE": "UII24PW519CS",
+          "CREDITS": "1"
+        },
+        "DEEP LEARNING": {
+          "COURSE CODE": "UII24PC610CS",
           "CREDITS": "3"
         },
         "SOFTWARE ENGINEERING": {
-          "COURSE CODE": "UII23PC620CS",
+          "COURSE CODE": "UII24PC620CS",
           "CREDITS": "3"
         },
-        "DEEP LEARNING": {
-          "COURSE CODE": "UII23PC630CS",
+        "CYBER SECURITY": {
+          "COURSE CODE": "UII24PC630CS",
           "CREDITS": "3"
         },
-        "COMPUTER VISION": {
-          "COURSE CODE": "UII23PC640CS",
+        "AGENTIC AI": {
+          "COURSE CODE": "UII24PC640CS",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE-IV": {
-          "COURSE CODE": "U23OE6XXXX",
+          "COURSE CODE": "U24QE6XXXX",
           "CREDITS": "3"
         },
         "SKILL DEVELOPMENT COURSE -VII (VERBAL APTITUDE)": {
-          "COURSE CODE": "U23HS630EH",
+          "COURSE CODE": "U24HS630EH",
           "CREDITS": "1"
         },
         "SKILL DEVELOPMENT COURSE-VIII(TECHNICAL SKILLS-IV)": {
-          "COURSE CODE": "UII23PE610CS",
-          "CREDITS": "1"
-        },
-        "INTERNET OF THINGS LAB": {
-          "COURSE CODE": "UII23PC611CS",
-          "CREDITS": "1"
-        },
-        "SOFTWARE ENGINEERING LAB": {
-          "COURSE CODE": "UII23PC621CS",
+          "COURSE CODE": "UII24PE610CS",
           "CREDITS": "1"
         },
         "DEEP LEARNING LAB": {
-          "COURSE CODE": "UII23PC631CS",
+          "COURSE CODE": "UII24PC611CS",
           "CREDITS": "1"
         },
-        "THEME BASED PROJECT": {
-          "COURSE CODE": "UII23PW619CS",
+        "SOFTWARE ENGINEERING LAB": {
+          "COURSE CODE": "UII24PC621CS",
+          "CREDITS": "1"
+        },
+        "CYBER SECURITY LAB": {
+          "COURSE CODE": "UII24PC631CS",
+          "CREDITS": "1"
+        },
+        "AGENTIC AI LAB": {
+          "COURSE CODE": "UII24PC641CS",
+          "CREDITS": "1"
+        },
+        "THEME BASED PROJECT-II": {
+          "COURSE CODE": "UII24PW619CS",
           "CREDITS": "1"
         }
       },
       "8": {
         "PROFESSIONAL ELECTIVE - III": {
-          "COURSE CODE": "UII22PE8X0CS",
+          "COURSE CODE": "UII23PE8X0CS",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE - IV": {
-          "COURSE CODE": "UII22PE8X0CS",
+          "COURSE CODE": "UII23PE8X0CS",
           "CREDITS": "3"
         },
         "PROJECT / INTERNSHIP": {
-          "COURSE CODE": "UII22PW819CS",
+          "COURSE CODE": "UII23PW819CS",
           "CREDITS": "6"
         }
       },
       "7": {
         "CLOUD COMPUTING": {
-          "COURSE CODE": "UII22PC710CS",
+          "COURSE CODE": "UII23PC710CS",
           "CREDITS": "3"
         },
         "NATURAL LANGUAGE PROCESSING": {
-          "COURSE CODE": "UII22PC720CS",
+          "COURSE CODE": "UII23PC720CS",
           "CREDITS": "3"
         },
-        "PROFESSIONAL ELECTIVE-I": {
-          "COURSE CODE": "UII22PE7X0CS",
+        "PROFESSIONAL ELECTIVE-I (AGENTIC AI)": {
+          "COURSE CODE": "UII23PE7X0CS",
           "CREDITS": "3"
         },
-        "PROFESSIONAL ELECTIVE-II": {
-          "COURSE CODE": "UII22PE7X0CS",
+        "PROFESSIONAL ELECTIVE-II (CYBER SECURITY)": {
+          "COURSE CODE": "UII23PE7X0CS",
           "CREDITS": "3"
         },
         "CLOUD COMPUTING LAB": {
-          "COURSE CODE": "UII22PC711CS",
+          "COURSE CODE": "UII23PC711CS",
           "CREDITS": "1"
         },
         "NATURAL LANGUAGE PROCESSING LAB": {
-          "COURSE CODE": "UII22PC721CS",
+          "COURSE CODE": "UII23PC721CS",
           "CREDITS": "1"
         },
-        "PROFESSIONAL ELECTIVE-I LAB": {
-          "COURSE CODE": "UII22PE7X1CS",
+        "PROFESSIONAL ELECTIVE-I LAB (AGENTIC AI LAB)": {
+          "COURSE CODE": "UII23PE7X1CS",
           "CREDITS": "1"
         },
-        "PROFESSIONAL ELECTIVE-II LAB": {
-          "COURSE CODE": "UII22PE7X1CS",
+        "PROFESSIONAL ELECTIVE-II LAB (CYBER SECURITY LAB)": {
+          "COURSE CODE": "UII23PE7X1CS",
           "CREDITS": "1"
         },
         "PROJECT SEMINAR": {
-          "COURSE CODE": "UII22PW729CS",
+          "COURSE CODE": "UII23PW729CS",
           "CREDITS": "1"
         },
         "NPTEL COURSE": {
-          "COURSE CODE": "",
+          "COURSE CODE": "-",
           "CREDITS": "2"
         }
       }
@@ -687,345 +691,361 @@
     "COMPUTER SCIENCE AND ENGINEERING": {
       "2": {
         "ENGLISH LANGUAGE AND COMMUNICATION": {
-          "COURSE CODE": "U25HS010EH",
+          "COURSE CODE": "U26HS010EH",
           "CREDITS": "2"
         },
         "ADVANCED CALCULUS": {
-          "COURSE CODE": "U25BS220MA",
+          "COURSE CODE": "U26BS220MA",
           "CREDITS": "3"
         },
         "MATERIAL CHEMISTRY": {
-          "COURSE CODE": "U25BS210CH",
+          "COURSE CODE": "U26BS210CH",
           "CREDITS": "2"
         },
         "BASIC ELECTRICAL ENGINEERING": {
-          "COURSE CODE": "U25ES010EE",
+          "COURSE CODE": "U26ES010EE",
           "CREDITS": "2"
         },
-        "LOGIC AND SWITCHING THEORY": {
-          "COURSE CODE": "UI25ES220CS",
-          "CREDITS": "3"
-        },
-        "PYTHON PROGRAMMING": {
-          "COURSE CODE": "UI25ES230CS",
-          "CREDITS": "3"
+        "DATA STRUCTURES": {
+          "COURSE CODE": "UI26ES220CS",
+          "CREDITS": "4"
         },
         "ENVIRONMENTAL SCIENCE": {
-          "COURSE CODE": "U25MC010CE",
+          "COURSE CODE": "U26MC010CE",
           "CREDITS": "0"
         },
         "SKILL DEVELOPMENT COURSE-II (TECHNICAL SKILLS-II)": {
-          "COURSE CODE": "UI25PE210CS",
+          "COURSE CODE": "UI26PE210CS",
           "CREDITS": "1"
         },
         "ENGLISH LANGUAGE AND COMMUNICATION SKILLS LAB": {
-          "COURSE CODE": "U25HS011EH",
+          "COURSE CODE": "U26HS011EH",
           "CREDITS": "1"
         },
         "CHEMISTRY LAB": {
-          "COURSE CODE": "U25BS011CH",
+          "COURSE CODE": "U26BS011CH",
           "CREDITS": "1"
         },
         "BASIC ELECTRICAL ENGINEERING LAB": {
-          "COURSE CODE": "U25ES011EE",
+          "COURSE CODE": "U26ES011EE",
+          "CREDITS": "1"
+        },
+        "DATA STRUCTURES LAB": {
+          "COURSE CODE": "UI26ES221CS",
           "CREDITS": "1"
         },
         "PYTHON PROGRAMMING LAB": {
-          "COURSE CODE": "UI25ES231CS",
-          "CREDITS": "1"
+          "COURSE CODE": "UI26ES231CS",
+          "CREDITS": "2"
         }
       },
       "1": {
         "CALCULUS & LINEAR ALGEBRA": {
-          "COURSE CODE": "U25BS120MA",
+          "COURSE CODE": "U26BS130MA",
           "CREDITS": "3"
         },
         "PHYSICS OF SEMICONDUCTORS": {
-          "COURSE CODE": "U25BS110PH",
+          "COURSE CODE": "U26BS110PH",
           "CREDITS": "2"
         },
         "PROGRAMMING FOR PROBLEM SOLVING": {
-          "COURSE CODE": "UI25ES120CS",
+          "COURSE CODE": "UI26ES120CS",
           "CREDITS": "3"
         },
         "INTRODUCTION TO ELECTRONICS ENGINEERING": {
-          "COURSE CODE": "U25ES130EC",
+          "COURSE CODE": "U26ES130EC",
           "CREDITS": "2"
         },
         "BASIC ENGINEERING MECHANICS": {
-          "COURSE CODE": "U25ES010CE",
+          "COURSE CODE": "U26ES010CE",
           "CREDITS": "2"
         },
         "BASIC ENGINEERING DRAWING": {
-          "COURSE CODE": "U25ES030CE",
+          "COURSE CODE": "U26ES030CE",
           "CREDITS": "2"
         },
         "HUMAN VALUES AND PROFESSIONAL ETHICS-I": {
-          "COURSE CODE": "U25HS020EH",
+          "COURSE CODE": "U26HS020EH",
           "CREDITS": "1"
         },
         "LEARNING TO LEARN": {
-          "COURSE CODE": "U25HS040EH",
+          "COURSE CODE": "U26HS040EH",
           "CREDITS": "1"
         },
         "SKILL DEVELOPMENT COURSE-I (TECHNICAL SKILLS-I)": {
-          "COURSE CODE": "UI25PE110CS",
+          "COURSE CODE": "UI26PE110CS",
           "CREDITS": "1"
         },
         "SEMICONDUCTOR AND OPTOELECTRONICS LAB": {
-          "COURSE CODE": "U25BS111PH",
+          "COURSE CODE": "U26BS111PH",
           "CREDITS": "1"
         },
         "PROGRAMMING FOR PROBLEM SOLVING LAB": {
-          "COURSE CODE": "UI25ES121CS",
+          "COURSE CODE": "UI26ES121CS",
           "CREDITS": "1"
         },
         "INTRODUCTION TO ELECTRONICS ENGINEERING LAB": {
-          "COURSE CODE": "U25ES131EC",
+          "COURSE CODE": "U26ES131EC",
           "CREDITS": "1"
         }
       },
       "3": {
         "DATA STRUCTURES": {
-          "COURSE CODE": "UI24PC310CS",
+          "COURSE CODE": "UI25PC310CS",
           "CREDITS": "4"
         },
         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
-          "COURSE CODE": "UI24PC320CS",
+          "COURSE CODE": "UI25PC320CS",
           "CREDITS": "3"
         },
         "COMPUTER ARCHITECTURE": {
-          "COURSE CODE": "UI24PC330CS",
+          "COURSE CODE": "UI25PC330CS",
           "CREDITS": "3"
         },
         "TRANSFORM TECHNIQUES, PROBABILITY & STATISTICS": {
-          "COURSE CODE": "U24BS340MA",
+          "COURSE CODE": "U25BS340MA",
           "CREDITS": "4"
         },
         "OPEN ELECTIVE-I": {
-          "COURSE CODE": "U24OE3XXXX",
+          "COURSE CODE": "U25OE3XXXX",
           "CREDITS": "2"
         },
         "CRITICAL THINKING": {
-          "COURSE CODE": "U24HS310EH",
-          "CREDITS": "1"
-        },
-        "SKILL DEVELOPMENT COURSE-I (COMMUNICATION SKILLS-I)": {
-          "COURSE CODE": "U24HS320EH",
-          "CREDITS": "1"
-        },
-        "SKILL DEVELOPMENT COURSE- II (TECHNICAL SKILLS-I)": {
-          "COURSE CODE": "UI24PE310CS",
+          "COURSE CODE": "U25HS310EH",
           "CREDITS": "1"
         },
         "HUMAN VALUES AND PROFESSIONAL ETHICS-II": {
-          "COURSE CODE": "U24HS030EH",
+          "COURSE CODE": "U25HS030EH",
+          "CREDITS": "1"
+        },
+        "SKILL DEVELOPMENT COURSE-III (COMMUNICATION SKILLS-I)": {
+          "COURSE CODE": "U25HS320EH",
+          "CREDITS": "1"
+        },
+        "SKILL DEVELOPMENT COURSE- IV (TECHNICAL SKILLS-III)": {
+          "COURSE CODE": "UI25PE310CS",
           "CREDITS": "1"
         },
         "DATA STRUCTURES LAB": {
-          "COURSE CODE": "UI24PC311CS",
+          "COURSE CODE": "UI25PC311CS",
           "CREDITS": "1"
         },
         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA LAB": {
-          "COURSE CODE": "UI24PC321CS",
+          "COURSE CODE": "UI25PC321CS",
           "CREDITS": "1"
         }
       },
       "4": {
         "DISCRETE STRUCTURES": {
-          "COURSE CODE": "UI24BS410MA",
+          "COURSE CODE": "UI25BS410MA",
           "CREDITS": "3"
         },
         "DATABASE MANAGEMENT SYSTEMS": {
-          "COURSE CODE": "UI24PC420CS",
+          "COURSE CODE": "UI25PC420CS",
           "CREDITS": "3"
         },
         "OPERATING SYSTEMS": {
-          "COURSE CODE": "UI24PC430CS",
+          "COURSE CODE": "UI25PC430CS",
           "CREDITS": "3"
         },
         "DESIGN AND ANALYSIS OF ALGORITHMS": {
-          "COURSE CODE": "UI24PC440CS",
-          "CREDITS": "4"
+          "COURSE CODE": "UI25PC440CS",
+          "CREDITS": "3"
         },
-        "MACHINE LEARNING": {
-          "COURSE CODE": "UI24PC450CS",
+        "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING": {
+          "COURSE CODE": "UI25PC450CS",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE-II": {
-          "COURSE CODE": "U24OE4XXXX",
+          "COURSE CODE": "U25OE4XXXX",
           "CREDITS": "3"
         },
-        "SKILL DEVELOPMENT COURSE -III (APTITUDE)": {
-          "COURSE CODE": "U24BS430MA",
+        "SKILL DEVELOPMENT COURSE -V (APTITUDE)": {
+          "COURSE CODE": "U25BS430MA",
           "CREDITS": "1"
         },
-        "SKILL DEVELOPMENT COURSE -IV (TECHNICAL SKILLS-II)": {
-          "COURSE CODE": "UI24PE410CS",
+        "SKILL DEVELOPMENT COURSE -VI (TECHNICAL SKILLS-IV)": {
+          "COURSE CODE": "UI25PE410CS",
           "CREDITS": "1"
         },
         "DATABASE MANAGEMENT SYSTEMS LAB": {
-          "COURSE CODE": "UI24PC421CS",
+          "COURSE CODE": "UI25PC421CS",
           "CREDITS": "1"
         },
         "OPERATING SYSTEMS LAB": {
-          "COURSE CODE": "UI24PC431CS",
+          "COURSE CODE": "UI25PC431CS",
           "CREDITS": "1"
         },
         "DESIGN AND ANALYSIS OF ALGORITHMS LAB": {
-          "COURSE CODE": "UI24PC441CS",
+          "COURSE CODE": "UI25PC441CS",
+          "CREDITS": "1"
+        },
+        "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING LAB": {
+          "COURSE CODE": "UI25PC451CS",
           "CREDITS": "1"
         }
       },
       "5": {
+        "INTERNET OF THINGS": {
+          "COURSE CODE": "UI24PC510CS",
+          "CREDITS": "3"
+        },
         "FULL STACK WEB DEVELOPMENT": {
-          "COURSE CODE": "UI23PC510CS",
+          "COURSE CODE": "UI24PC520CS",
           "CREDITS": "3"
         },
         "COMPUTER NETWORKS": {
-          "COURSE CODE": "UI23PC520CS",
-          "CREDITS": "3"
+          "COURSE CODE": "UI24PC530CS",
+          "CREDITS": "4"
         },
         "ARTIFICIAL INTELLIGENCE": {
-          "COURSE CODE": "UI23PC530CS",
+          "COURSE CODE": "UI24PC540CS",
           "CREDITS": "3"
-        },
-        "AUTOMATA, LANGUAGES AND COMPUTATION": {
-          "COURSE CODE": "UI23PC540CS",
-          "CREDITS": "3"
-        },
-        "ECONOMICS AND FINANCE FOR ENGINEERS": {
-          "COURSE CODE": "U23HS040EH",
-          "CREDITS": "2"
         },
         "OPEN ELECTIVE-III": {
-          "COURSE CODE": "U23OE5XXXX",
+          "COURSE CODE": "U24OE5XXXXX",
           "CREDITS": "3"
         },
         "DESIGN THINKING": {
-          "COURSE CODE": "U23HS530EH",
+          "COURSE CODE": "U24HS010EH",
           "CREDITS": "1"
         },
-        "SKILL DEVELOPMENT COURSE -V(COMMUNICATION SKILLS-II )": {
-          "COURSE CODE": "U23HS510EH",
+        "SKILL DEVELOPMENT COURSE -V(COMMUNICATION SKILLS-II)": {
+          "COURSE CODE": "U24HS510EH",
           "CREDITS": "1"
         },
-        "SKILL DEVELOPMENT COURSE -VI (TECHNICAL SKILLS -III)": {
-          "COURSE CODE": "UI23PE510CS",
+        "SKILL DEVELOPMENT COURSE -VI (TECHNICAL SKILLS-III)": {
+          "COURSE CODE": "UI24PE510CS",
+          "CREDITS": "1"
+        },
+        "INTERNET OF THINGS LAB": {
+          "COURSE CODE": "UI24PC511CS",
           "CREDITS": "1"
         },
         "FULL STACK WEB DEVELOPMENT LAB": {
-          "COURSE CODE": "UI23PC511CS",
+          "COURSE CODE": "UI24PC521CS",
           "CREDITS": "1"
         },
         "COMPUTER NETWORKS LAB": {
-          "COURSE CODE": "UI23PC521CS",
+          "COURSE CODE": "UI24PC531CS",
           "CREDITS": "1"
         },
         "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING LAB": {
-          "COURSE CODE": "UI23PC531CS",
+          "COURSE CODE": "UI24PC541CS",
+          "CREDITS": "1"
+        },
+        "THEME BASED PROJECT-I": {
+          "COURSE CODE": "UI24PW519CS",
           "CREDITS": "1"
         }
       },
       "6": {
-        "INTERNET OF THINGS": {
-          "COURSE CODE": "UI23PC610CS",
+        "NATURAL LANGUAGE PROCESSING": {
+          "COURSE CODE": "UI24PC610CS",
           "CREDITS": "3"
         },
         "SOFTWARE ENGINEERING": {
-          "COURSE CODE": "UI23PC620CS",
+          "COURSE CODE": "UI24PC620CS",
           "CREDITS": "3"
         },
-        "COMPILER CONSTRUCTION": {
-          "COURSE CODE": "UI23PC630CS",
+        "CYBER SECURITY": {
+          "COURSE CODE": "UI24PC630CS",
           "CREDITS": "3"
         },
-        "IMAGE PROCESSING": {
-          "COURSE CODE": "UI23PC640CS",
+        "AGENTIC AI": {
+          "COURSE CODE": "UI24PC640CS",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE-IV": {
-          "COURSE CODE": "U230E6XXXX",
+          "COURSE CODE": "U24OE6XXXX",
           "CREDITS": "3"
         },
         "SKILL DEVELOPMENT COURSE -VII (VERBAL APTITUDE)": {
-          "COURSE CODE": "U23HS630EH",
+          "COURSE CODE": "U24HS630EH",
           "CREDITS": "1"
         },
         "SKILL DEVELOPMENT COURSE -VIII (TECHNICAL SKILLS -IV)": {
-          "COURSE CODE": "UI23PE610CS",
+          "COURSE CODE": "UI24PE610CS",
           "CREDITS": "1"
         },
-        "INTERNET OF THINGS LAB": {
-          "COURSE CODE": "UI23PC611CS",
+        "NATURAL LANGUAGE PROCESSING LAB": {
+          "COURSE CODE": "UI24PC611CS",
           "CREDITS": "1"
         },
         "SOFTWARE ENGINEERING LAB": {
-          "COURSE CODE": "UI23PC621CS",
+          "COURSE CODE": "UI24PC621CS",
           "CREDITS": "1"
         },
-        "COMPILER CONSTRUCTION LAB": {
-          "COURSE CODE": "UI23PC631CS",
+        "CYBER SECURITY LAB": {
+          "COURSE CODE": "UI24PC631CS",
           "CREDITS": "1"
         },
-        "THEME BASED PROJECT": {
-          "COURSE CODE": "UI23PW619CS",
+        "AGENTIC AI LAB": {
+          "COURSE CODE": "UI24PC641CS",
           "CREDITS": "1"
+        },
+        "THEME BASED PROJECT-II": {
+          "COURSE CODE": "UI24PW619CS",
+          "CREDITS": "1"
+        },
+        "CO-CURRICULAR ACTIVITIES -II": {
+          "COURSE CODE": "-",
+          "CREDITS": "0"
         }
       },
       "8": {
         "PROFESSIONAL ELECTIVE - III": {
-          "COURSE CODE": "UI22PE8X0CS",
+          "COURSE CODE": "UI23PE8X0CS",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE - IV": {
-          "COURSE CODE": "UI22PE8X0CS",
+          "COURSE CODE": "UI23PE8X0CS",
           "CREDITS": "3"
         },
         "PROJECT / INTERNSHIP": {
-          "COURSE CODE": "UI22PW819CS",
+          "COURSE CODE": "UI23PW819CS",
           "CREDITS": "6"
         }
       },
       "7": {
         "CLOUD COMPUTING": {
-          "COURSE CODE": "UI22PC710CS",
+          "COURSE CODE": "UI23PC710CS",
           "CREDITS": "3"
         },
         "DATA MINING": {
-          "COURSE CODE": "UI22PC720CS",
+          "COURSE CODE": "UI23PC720CS",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE-I": {
-          "COURSE CODE": "UI22PE7X0CS",
+          "COURSE CODE": "UI23PE7X0CS",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE-II": {
-          "COURSE CODE": "UI22PE7X0CS",
+          "COURSE CODE": "UI23PE7X0CS",
           "CREDITS": "3"
         },
         "CLOUD COMPUTING LAB": {
-          "COURSE CODE": "UI22PC711CS",
+          "COURSE CODE": "UI23PC711CS",
           "CREDITS": "1"
         },
         "DATA MINING LAB": {
-          "COURSE CODE": "UI22PC721CS",
+          "COURSE CODE": "UI23PC721CS",
           "CREDITS": "1"
         },
         "PROFESSIONAL ELECTIVE-I LAB": {
-          "COURSE CODE": "UI22PE7X1CS",
+          "COURSE CODE": "UI23PE7X1CS",
           "CREDITS": "1"
         },
         "PROFESSIONAL ELECTIVE-II LAB": {
-          "COURSE CODE": "UI22PE7X1CS",
+          "COURSE CODE": "UI23PE7X1CS",
           "CREDITS": "1"
         },
         "PROJECT SEMINAR": {
-          "COURSE CODE": "UI22PW729CS",
+          "COURSE CODE": "UI23PW729CS",
           "CREDITS": "1"
         },
         "NPTEL COURSE": {
-          "COURSE CODE": "",
+          "COURSE CODE": "-",
           "CREDITS": "2"
         }
       }
@@ -1033,1415 +1053,1463 @@
     "ELECTRICAL AND ELECTRONICS ENGINEERING": {
       "2": {
         "DIFFERENTIAL EQUATIONS & VECTOR CALCULUS": {
-          "COURSE CODE": "U25BS210MA",
+          "COURSE CODE": "U26BS210MA",
           "CREDITS": "3"
         },
         "QUANTUM MECHANICS FOR ENGINEERS": {
-          "COURSE CODE": "U25BS210PH",
+          "COURSE CODE": "U26BS210PH",
           "CREDITS": "2"
         },
         "OBJECT ORIENTED PROGRAMMING USING C++": {
-          "COURSE CODE": "U25ES210EE",
+          "COURSE CODE": "U26ES210EE",
           "CREDITS": "3"
         },
         "ELECTRICAL NETWORK ANALYSIS": {
-          "COURSE CODE": "U25PC220EE",
+          "COURSE CODE": "U26PC220EE",
           "CREDITS": "3"
         },
-        "BASIC ENGINEERING DRAWING": {
-          "COURSE CODE": "U25ES030CE",
+        "ELECTRICAL MEASUREMENTS AND INSTRUMENTATION": {
+          "COURSE CODE": "U26PC230EE",
           "CREDITS": "2"
         },
-        "HUMAN VALUES AND PROFESSIONAL ETHICS -I": {
-          "COURSE CODE": "U25HS010EH",
-          "CREDITS": "1"
+        "BASIC ENGINEERING DRAWING": {
+          "COURSE CODE": "U26ES030CE",
+          "CREDITS": "2"
         },
         "LEARNING TO LEARN": {
-          "COURSE CODE": "U25HS040EX",
+          "COURSE CODE": "U26OE040EH",
           "CREDITS": "1"
         },
         "APPLIED PHYSICS LAB": {
-          "COURSE CODE": "U25BS211PH",
+          "COURSE CODE": "U26BS221PH",
           "CREDITS": "1"
         },
         "WORKSHOP PRACTICE": {
-          "COURSE CODE": "U25ES021ME",
+          "COURSE CODE": "U26ES021ME",
           "CREDITS": "1"
         },
         "OBJECT ORIENTED PROGRAMMING USING C++ LAB": {
-          "COURSE CODE": "U25ES211EE",
+          "COURSE CODE": "U26ES211EE",
           "CREDITS": "1"
         },
-        "ELECTRICAL NETWORK ANALYSIS LAB": {
-          "COURSE CODE": "U25PC221EE",
+        "CIRCUITS AND MEASUREMENTS LAB": {
+          "COURSE CODE": "U26PC221EE",
           "CREDITS": "1"
         }
       },
       "1": {
         "MATRICES & CALCULUS": {
-          "COURSE CODE": "U25BS110MA",
+          "COURSE CODE": "U26BS110MA",
           "CREDITS": "3"
         },
         "ENGLISH LANGUAGE AND COMMUNICATION": {
-          "COURSE CODE": "U25HS010EH",
+          "COURSE CODE": "U26HS010EH",
           "CREDITS": "2"
         },
         "ENGINEERING CHEMISTRY": {
-          "COURSE CODE": "U25BS110CH",
+          "COURSE CODE": "U26BS120CH",
           "CREDITS": "2"
         },
         "PROGRAMMING AND PROBLEM SOLVING FOR EEE": {
-          "COURSE CODE": "U25ES110EE",
+          "COURSE CODE": "U26ES110EE",
           "CREDITS": "3"
         },
         "BASIC ENGINEERING MECHANICS": {
-          "COURSE CODE": "U25ES010CE",
+          "COURSE CODE": "U26ES010CE",
           "CREDITS": "2"
         },
         "CIRCUIT THEORY": {
-          "COURSE CODE": "U25PC110EE",
+          "COURSE CODE": "U26PC110EE",
           "CREDITS": "3"
         },
+        "HUMAN VALUES AND PROFESSIONAL ETHICS - I": {
+          "COURSE CODE": "U26HS010EH",
+          "CREDITS": "1"
+        },
         "ENVIRONMENTAL SCIENCE": {
-          "COURSE CODE": "U25MC010CE",
+          "COURSE CODE": "U26MC010CE",
           "CREDITS": "0"
         },
         "ENGLISH LANGUAGE AND COMMUNICATION SKILLS LAB": {
-          "COURSE CODE": "U25HS011EH",
+          "COURSE CODE": "U26HS011EH",
           "CREDITS": "1"
         },
         "CHEMISTRY LAB": {
-          "COURSE CODE": "U25BS011CH",
+          "COURSE CODE": "U26BS011CH",
           "CREDITS": "1"
         },
         "PROGRAMMING AND PROBLEM SOLVING FOR EEE LAB": {
-          "COURSE CODE": "U25ES111EE",
+          "COURSE CODE": "U26ES111EE",
           "CREDITS": "1"
         }
       },
       "3": {
         "TRANSFORM TECHNIQUES AND PARTIAL DIFFERENTIAL EQUATIONS": {
-          "COURSE CODE": "U24BS310MA",
-          "CREDITS": "3"
+          "COURSE CODE": "U25BS310MA",
+          "CREDITS": "40"
         },
         "ELECTROMAGNETIC FIELD THEORY": {
-          "COURSE CODE": "U24PC310EE",
-          "CREDITS": "4"
+          "COURSE CODE": "U25PC310EE",
+          "CREDITS": "40"
         },
         "DC MACHINES & TRANSFORMERS": {
-          "COURSE CODE": "U24PC320EE",
-          "CREDITS": "4"
+          "COURSE CODE": "U25PC320EE",
+          "CREDITS": "40"
         },
         "ELECTRONIC DEVICES AND CIRCUITS": {
-          "COURSE CODE": "U24ES310EC",
-          "CREDITS": "3"
+          "COURSE CODE": "U25ES310EC",
+          "CREDITS": "40"
         },
-        "OPEN ELECTIVE-I": {
-          "COURSE CODE": "U24OE3X0XX",
-          "CREDITS": "2"
-        },
-        "SKILL DEVELOPMENT COURSE-I (COMMUNICATIONS SKILLS-I)": {
-          "COURSE CODE": "U24HS320EH",
-          "CREDITS": "1"
+        "OPEN ELECTIVE - I": {
+          "COURSE CODE": "U25OE3XXXX",
+          "CREDITS": "40"
         },
         "SKILL DEVELOPMENT COURSE-II (APTITUDE-I)": {
-          "COURSE CODE": "U24BS330MA",
-          "CREDITS": "1"
+          "COURSE CODE": "U25BS330MA",
+          "CREDITS": "30"
+        },
+        "SKILL DEVELOPMENT COURSE-I (COMMUNICATIONS SKILLS-I)": {
+          "COURSE CODE": "U25HS330EH",
+          "CREDITS": "30"
         },
         "CRITICAL THINKING": {
-          "COURSE CODE": "U24HS310EH",
-          "CREDITS": "1"
+          "COURSE CODE": "U25HS310EH",
+          "CREDITS": "30"
         },
         "ELECTRONIC DEVICES AND CIRCUITS LAB": {
-          "COURSE CODE": "U24ES311EC",
+          "COURSE CODE": "U25ES311EC",
           "CREDITS": "1"
         },
         "DC MACHINES & TRANSFORMERS LAB": {
-          "COURSE CODE": "U24PC321EE",
+          "COURSE CODE": "U25PC321EE",
           "CREDITS": "1"
         }
       },
       "4": {
         "NUMERICAL METHODS, PROBABILITY AND STATISTICS": {
-          "COURSE CODE": "U24BS410MA",
+          "COURSE CODE": "U25BS410MA",
           "CREDITS": "3"
         },
         "DATA STRUCTURES USING C": {
-          "COURSE CODE": "U24ES410EE",
+          "COURSE CODE": "U25ES410EE",
           "CREDITS": "3"
         },
         "AC MACHINES": {
-          "COURSE CODE": "U24PC410EE",
+          "COURSE CODE": "U25PC410EE",
           "CREDITS": "4"
         },
         "ANALOG ELECTRONIC CIRCUITS": {
-          "COURSE CODE": "U24ES410EC",
+          "COURSE CODE": "U25ES410EC",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE-II": {
-          "COURSE CODE": "U24OL4X0XX",
+          "COURSE CODE": "U25OE4XXXX",
           "CREDITS": "3"
         },
-        "HUMAN VALUES AND PROFESSIONAL ETHICS -II": {
-          "COURSE CODE": "U24HS030EH",
+        "HUMAN VALUES AND PROFESSIONAL ETHICS \u2013 II": {
+          "COURSE CODE": "U25HS010EH",
           "CREDITS": "1"
         },
         "SKILL DEVELOPMENT COURSE-III (APTITUDE-II)": {
-          "COURSE CODE": "U24BS430MA",
+          "COURSE CODE": "U25BS430MA",
           "CREDITS": "1"
         },
         "SKILL DEVELOPMENT COURSE-IV (TECHNICAL SKILLS-I)": {
-          "COURSE CODE": "U24PE430EE",
+          "COURSE CODE": "U25PE430EE",
           "CREDITS": "1"
         },
         "DATA STRUCTURES USING C LAB": {
-          "COURSE CODE": "U24ES411EE",
+          "COURSE CODE": "U25ES411EE",
           "CREDITS": "1"
         },
         "ANALOG ELECTRONIC CIRCUITS LAB": {
-          "COURSE CODE": "U24ES411EC",
+          "COURSE CODE": "U25ES411EC",
           "CREDITS": "1"
         },
         "AC MACHINES LAB": {
-          "COURSE CODE": "U24PC411EE",
-          "CREDITS": "1"
-        }
-      },
-      "5": {
-        "AC MACHINES": {
-          "COURSE CODE": "U23PC510EE",
-          "CREDITS": "4"
-        },
-        "DIGITAL ELECTRONICS": {
-          "COURSE CODE": "U23PC520EE",
-          "CREDITS": "3"
-        },
-        "CONTROL SYSTEMS": {
-          "COURSE CODE": "U23PC530EE",
-          "CREDITS": "4"
-        },
-        "LINEAR INTEGRATED CIRCUITS & APPLICATIONS": {
-          "COURSE CODE": "U23PC550EE",
-          "CREDITS": "3"
-        },
-        "OPEN ELECTIVE -III": {
-          "COURSE CODE": "U23OE5X0XX",
-          "CREDITS": "3"
-        },
-        "SKILL DEVELOPMENT COURSE-V (COMMUNICATION SKILLS-II)": {
-          "COURSE CODE": "U23HS510EH",
-          "CREDITS": "1"
-        },
-        "SKILL DEVELOPMENT COURSE-VI (TECHNICAL SKILLS-II)": {
-          "COURSE CODE": "U23PE510EE",
-          "CREDITS": "1"
-        },
-        "AC MACHINES LAB": {
-          "COURSE CODE": "U23PC511EE",
-          "CREDITS": "1"
-        },
-        "CONTROL SYSTEMS LAB": {
-          "COURSE CODE": "U23PC541EE",
-          "CREDITS": "1"
-        },
-        "LINEAR INTEGRATED CIRCUITS & APPLICATIONS LAB": {
-          "COURSE CODE": "U23PC521EE",
-          "CREDITS": "1"
-        },
-        "MINI PROJECT": {
-          "COURSE CODE": "U23PW519EE",
+          "COURSE CODE": "U25PC411EE",
           "CREDITS": "1"
         }
       },
       "6": {
         "ECONOMICS AND FINANCE FOR ENGINEERS": {
-          "COURSE CODE": "U23HS040EH",
+          "COURSE CODE": "U24HS040EH",
           "CREDITS": "2"
         },
-        "POWER SYSTEMS -II": {
-          "COURSE CODE": "U23PC610EE",
+        "POWER SYSTEMS - II": {
+          "COURSE CODE": "U24PC610EE",
           "CREDITS": "3"
         },
-        "POWER ELECTRONICS": {
-          "COURSE CODE": "U23PC620EE",
-          "CREDITS": "4"
-        },
-        "MICROPROCESSOR AND MICROCONTROLLERS APPLICATIONS": {
-          "COURSE CODE": "U23PC630EE",
+        "CONTROL SYSTEMS": {
+          "COURSE CODE": "U24PC620EE",
           "CREDITS": "3"
         },
-        "SIGNALS AND SYSTEMS": {
-          "COURSE CODE": "U23PC640EE",
+        "MICROPROCESSOR AND MICROCONTROLLER APPLICATION": {
+          "COURSE CODE": "U24PC630EE",
+          "CREDITS": "3"
+        },
+        "SIGNALS & SYSTEMS": {
+          "COURSE CODE": "U24PC640EE",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE -IV": {
-          "COURSE CODE": "U23OE6XXXX",
+          "COURSE CODE": "U24OE6XXXX",
           "CREDITS": "3"
         },
-        "SKILL DEVELOPMENT COURSE-VII ( VERBAL ABILITY)": {
-          "COURSE CODE": "U23HS630EH",
+        "SKILL DEVELOPMENT COURSE-VII ( VERBAL & APTITUDE)": {
+          "COURSE CODE": "U24HS610EH",
           "CREDITS": "1"
         },
-        "SKILL DEVELOPMENT COURSE-VIII (TECHNICAL SKILLS-III)": {
-          "COURSE CODE": "U23PE610EE",
-          "CREDITS": "1"
+        "SKILL DEVELOPMENT COURSE-VIII ( TECHNICAL SKILLS-III)": {
+          "COURSE CODE": "U24PE610EE",
+          "CREDITS": "2"
         },
-        "MICROPROCESSOR AND MICROCONTROLLERS APPLICATIONS LAB": {
-          "COURSE CODE": "U23PC651EE",
-          "CREDITS": "1"
+        "CONTROL SYSTEMS LAB": {
+          "COURSE CODE": "U24PC621EE",
+          "CREDITS": "3"
         },
-        "POWER ELECTRONICS LAB": {
-          "COURSE CODE": "U23PC631EE",
-          "CREDITS": "1"
+        "MICROPROCESSOR AND MICROCONTROLLER APPLICATION LAB": {
+          "COURSE CODE": "U24PC631EE",
+          "CREDITS": "3"
         },
         "THEME BASED PROJECT": {
-          "COURSE CODE": "U23PW619EE",
+          "COURSE CODE": "U24PW619EE",
+          "CREDITS": "3"
+        },
+        "CCA -II (PAPER PRESENTATIONS)": {
+          "COURSE CODE": "",
+          "CREDITS": "2"
+        },
+        "POWER ELECTRONICS LAB": {
+          "COURSE CODE": "U24PC511EE",
+          "CREDITS": "1"
+        },
+        "LINEAR INTEGRATED CIRCUITS & APPLICATIONS LAB": {
+          "COURSE CODE": "U24PC541EE",
+          "CREDITS": "1"
+        },
+        "MINI PROJECT": {
+          "COURSE CODE": "U24PW519EE",
+          "CREDITS": "1"
+        }
+      },
+      "5": {
+        "POWER ELECTRONICS": {
+          "COURSE CODE": "U24PC510EE",
+          "CREDITS": "4"
+        },
+        "DIGITAL ELECTRONICS": {
+          "COURSE CODE": "U24PC520EE",
+          "CREDITS": "3"
+        },
+        "POWER SYSTEMS - I": {
+          "COURSE CODE": "U24PC530EE",
+          "CREDITS": "3"
+        },
+        "LINEAR INTEGRATED CIRCUITS & APPLICATIONS": {
+          "COURSE CODE": "U24PC540EE",
+          "CREDITS": "3"
+        },
+        "OPEN ELECTIVE -III": {
+          "COURSE CODE": "U24OE5XXXX",
+          "CREDITS": "3"
+        },
+        "SKILL DEVELOPMENT COURSE-V (COMMUNICATION SKILLS-II)": {
+          "COURSE CODE": "U24HS510EH",
+          "CREDITS": "1"
+        },
+        "SKILL DEVELOPMENT COURSE-VI (TECHNICAL SKILLS-II)": {
+          "COURSE CODE": "U24PE510EE",
+          "CREDITS": "1"
+        },
+        "DESIGN THINKING": {
+          "COURSE CODE": "U24HS5XXEH",
           "CREDITS": "1"
         }
       },
       "8": {
         "PROFESSIONAL ELECTIVE -III": {
-          "COURSE CODE": "U22PE8XXEE",
+          "COURSE CODE": "U23PE8XXEE",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE -IV": {
-          "COURSE CODE": "U22PE8XXEE",
+          "COURSE CODE": "U23PE8XXEE",
           "CREDITS": "3"
         },
         "PROJECT / INTERNSHIP": {
-          "COURSE CODE": "U22PW819EE",
-          "CREDITS": "7"
+          "COURSE CODE": "U23PW819EE",
+          "CREDITS": "6"
         }
       },
       "7": {
         "SWITCHGEAR AND PROTECTION": {
-          "COURSE CODE": "U22PC710EE",
-          "CREDITS": "4"
+          "COURSE CODE": "U23PC710EE",
+          "CREDITS": "3"
         },
         "POWER SYSTEM OPERATION AND CONTROL": {
-          "COURSE CODE": "U22PC720EE",
+          "COURSE CODE": "U23PC720EE",
           "CREDITS": "4"
         },
         "DIGITAL SIGNAL PROCESSING": {
-          "COURSE CODE": "U22PC730EE",
+          "COURSE CODE": "U23PC730EE",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE -I": {
-          "COURSE CODE": "U22PE7XXEE",
+          "COURSE CODE": "U23PE7XXEE",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE -II": {
-          "COURSE CODE": "U22PE7XXEE",
+          "COURSE CODE": "U23PE7XXEE",
           "CREDITS": "3"
         },
         "POWER SYSTEMS LAB": {
-          "COURSE CODE": "U22PC711EE",
+          "COURSE CODE": "U23PC711EE",
           "CREDITS": "1"
         },
         "DIGITAL SIGNAL PROCESSING LAB": {
-          "COURSE CODE": "U22PC731EE",
+          "COURSE CODE": "U23PC731EE",
           "CREDITS": "1"
         },
         "PROFESSIONAL ELECTIVE -I LAB": {
-          "COURSE CODE": "U22PE7X1EE",
+          "COURSE CODE": "U23PE7XXEE",
           "CREDITS": "1"
         },
-        "PROFESSIONAL ELECTIVE-II LAB": {
-          "COURSE CODE": "U22PE7X1EE",
+        "PROFESSIONAL ELECTIVE -II LAB": {
+          "COURSE CODE": "U23PE7XXEE",
           "CREDITS": "1"
         },
         "PROJECT SEMINAR": {
-          "COURSE CODE": "U22PW719EE",
+          "COURSE CODE": "U23PW719EE",
           "CREDITS": "1"
+        },
+        "ONLINE NPTEL CERTIFICATION COURSE 8 WEEKS/ 12 WEEKS": {
+          "COURSE CODE": "-",
+          "CREDITS": "2"
         }
       }
     },
     "ELECTRONICS AND COMMUNICATION ENGINEERING": {
       "2": {
         "DIFFERENTIAL EQUATIONS AND VECTOR CALCULUS": {
-          "COURSE CODE": "U25BS210MA",
+          "COURSE CODE": "U26BS210MA",
           "CREDITS": "3"
         },
         "QUANTUM MECHANICS FOR ENGINEERS": {
-          "COURSE CODE": "U25BS210PH",
+          "COURSE CODE": "U26BS210PH",
           "CREDITS": "2"
         },
         "PROBLEM SOLVING THROUGH OBJECT ORIENTED PROGRAMMING": {
-          "COURSE CODE": "U25ES210EC",
+          "COURSE CODE": "U26ES210EC",
           "CREDITS": "3"
         },
         "BASIC ENGINEERING DRAWING": {
-          "COURSE CODE": "U25ES030CE",
+          "COURSE CODE": "U26ES030CE",
           "CREDITS": "2"
         },
-        "BASIC ELECTRICAL ENGINEERING": {
-          "COURSE CODE": "U25ES010EE",
+        "BASIC ELECTRICAL ENGINEERING FOR ECE": {
+          "COURSE CODE": "U26ES210EE",
           "CREDITS": "2"
         },
         "HUMAN VALUES AND PROFESSIONAL ETHICS - I": {
-          "COURSE CODE": "U25HS020EH",
+          "COURSE CODE": "U26HS020EH",
           "CREDITS": "1"
         },
         "LEARNING TO LEARN": {
-          "COURSE CODE": "U25HS040EH",
+          "COURSE CODE": "U26HS040EH",
           "CREDITS": "1"
         },
         "APPLIED PHYSICS LAB": {
-          "COURSE CODE": "U25BS211PH",
+          "COURSE CODE": "U26BS221PH",
           "CREDITS": "1"
         },
         "PROBLEM SOLVING THROUGH OBJECT ORIENTED PROGRAMMING LAB": {
-          "COURSE CODE": "U25ES211EC",
+          "COURSE CODE": "U26ES211EC",
           "CREDITS": "1"
         },
-        "BASIC ELECTRICAL ENGINEERING LAB": {
-          "COURSE CODE": "U25ES011EE",
+        "BASIC ELECTRICAL ENGINEERING FOR ECE LAB": {
+          "COURSE CODE": "U26ES211EE",
           "CREDITS": "1"
         },
         "ENGINEERING WORKSHOP": {
-          "COURSE CODE": "U25ES011ME",
+          "COURSE CODE": "U26ES011ME",
           "CREDITS": "1"
         }
       },
       "1": {
         "ENGLISH LANGUAGE AND COMMUNICATION": {
-          "COURSE CODE": "U25HS010EH",
+          "COURSE CODE": "U26HS010EH",
           "CREDITS": "2"
         },
         "MATRICES AND CALCULUS": {
-          "COURSE CODE": "U25BS110MA",
+          "COURSE CODE": "U26BS110MA",
           "CREDITS": "3"
         },
         "ENGINEERING CHEMISTRY": {
-          "COURSE CODE": "U25BS120CH",
+          "COURSE CODE": "U26BS120CH",
           "CREDITS": "2"
         },
         "BASIC CIRCUIT ANALYSIS": {
-          "COURSE CODE": "U25ES110EC",
+          "COURSE CODE": "U26ES110EC",
           "CREDITS": "3"
         },
         "PROGRAMMING AND PROBLEM SOLVING FOR ENGINEERS": {
-          "COURSE CODE": "U25ES120EC",
+          "COURSE CODE": "U26ES120EC",
           "CREDITS": "3"
         },
         "BASIC ENGINEERING MECHANICS": {
-          "COURSE CODE": "U25ES010CE",
+          "COURSE CODE": "U26ES010CE",
           "CREDITS": "2"
         },
         "ENGLISH LANGUAGE AND COMMUNICATION SKILLS LAB": {
-          "COURSE CODE": "U25HS011EH",
+          "COURSE CODE": "U26HS011EH",
           "CREDITS": "1"
         },
         "CHEMISTRY LAB": {
-          "COURSE CODE": "U25BS011CH",
+          "COURSE CODE": "U26BS011CH",
           "CREDITS": "1"
         },
         "BASIC CIRCUIT ANALYSIS LAB": {
-          "COURSE CODE": "U25ES111EC",
+          "COURSE CODE": "U26ES111EC",
           "CREDITS": "1"
         },
         "PROGRAMMING AND PROBLEM SOLVING FOR ENGINEERS LAB": {
-          "COURSE CODE": "U25ES121EC",
+          "COURSE CODE": "U26ES121EC",
           "CREDITS": "1"
         }
       },
       "4": {
         "ELECTRONIC CIRCUITS": {
-          "COURSE CODE": "U24PC410EC",
+          "COURSE CODE": "U25PC410EC",
           "CREDITS": "4"
         },
         "DATA STRUCTURES": {
-          "COURSE CODE": "U24PC420EC",
+          "COURSE CODE": "U25PC420EC",
           "CREDITS": "3"
         },
-        "PROBABILITY THEORY AND STOCHASTIC PROCESS": {
-          "COURSE CODE": "U24PC430EC",
-          "CREDITS": "4"
+        "PROBABILITY THEORY AND RANDOM PROCESS APPLICATIONS": {
+          "COURSE CODE": "U25PC430EC",
+          "CREDITS": "3"
         },
         "ELECTROMAGNETIC FIELD THEORY": {
-          "COURSE CODE": "U24PC440EC",
+          "COURSE CODE": "U25PC440EC",
           "CREDITS": "4"
         },
         "OPEN ELECTIVE - II": {
-          "COURSE CODE": "U24OE4XXXX",
+          "COURSE CODE": "U25OE4XXXX",
           "CREDITS": "3"
         },
         "SKILL DEVELOPMENT COURSE - III: APTITUDE - II": {
-          "COURSE CODE": "U24BS430MA",
+          "COURSE CODE": "U25BS430MA",
           "CREDITS": "1"
         },
         "SKILL DEVELOPMENT COURSE - IV: TECHNICAL SKILLS - I": {
-          "COURSE CODE": "U24PE410EC",
+          "COURSE CODE": "U25PE410EC",
+          "CREDITS": "1"
+        },
+        "HUMAN VALUES AND PROFESSIONAL ETHICS - II": {
+          "COURSE CODE": "U25HS030EH",
           "CREDITS": "1"
         },
         "ELECTRONIC CIRCUITS LAB": {
-          "COURSE CODE": "U24PC411EC",
+          "COURSE CODE": "U25PC411EC",
           "CREDITS": "1"
         },
         "DATA STRUCTURES LAB": {
-          "COURSE CODE": "U24PC421EC",
+          "COURSE CODE": "U25PC421EC",
+          "CREDITS": "1"
+        },
+        "PROBABILITY THEORY AND RANDOM PROCESS APPLICATIONS LAB": {
+          "COURSE CODE": "U25PC421EC",
           "CREDITS": "1"
         },
         "MINI PROJECT - I": {
-          "COURSE CODE": "U24PW419EC",
+          "COURSE CODE": "U25PW419EC",
           "CREDITS": "1"
         }
       },
       "3": {
         "ELECTRONIC DEVICES": {
-          "COURSE CODE": "U24PC310EC",
-          "CREDITS": "4"
-        },
-        "DIGITAL LOGIC DESIGN": {
-          "COURSE CODE": "U24PC320EC",
+          "COURSE CODE": "U25PC310EC",
           "CREDITS": "3"
         },
-        "SIGNAL ANALYSIS AND TRANSFORM TECHNIQUES": {
-          "COURSE CODE": "U24PC330EC",
+        "DIGITAL LOGIC DESIGN": {
+          "COURSE CODE": "U25PC320EC",
+          "CREDITS": "3"
+        },
+        "SIGNALS AND SYSTEMS": {
+          "COURSE CODE": "U25PC330EC",
           "CREDITS": "4"
         },
         "PARTIAL DIFFERENTIAL EQUATIONS AND NUMERICAL METHODS": {
-          "COURSE CODE": "U24BS320MA",
+          "COURSE CODE": "U25BS320MA",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE - I": {
-          "COURSE CODE": "U24OE3XXXX",
+          "COURSE CODE": "U25OE3XXXX",
           "CREDITS": "2"
         },
         "SKILL DEVELOPMENT COURSE-I: COMMUNICATION SKILLS IN ENGLISH-I": {
-          "COURSE CODE": "U24HS320EH",
+          "COURSE CODE": "U25HS320EH",
           "CREDITS": "1"
         },
-        "SKILL DEVELOPMENT COURSE - II: APTITUDE - I": {
-          "COURSE CODE": "U24BS330MA",
-          "CREDITS": "1"
-        },
-        "HUMAN VALUES AND PROFESSIONAL ETHICS - II": {
-          "COURSE CODE": "U24HS030EH",
+        "SKILL DEVELOPMENT COURSE-II: APTITUDE - I": {
+          "COURSE CODE": "U25BS330MA",
           "CREDITS": "1"
         },
         "CRITICAL THINKING": {
-          "COURSE CODE": "U24HS310EH",
+          "COURSE CODE": "U25HS310EH",
           "CREDITS": "1"
         },
         "ELECTRONIC DEVICES LAB": {
-          "COURSE CODE": "U24PC311EC",
+          "COURSE CODE": "U25PC311EC",
           "CREDITS": "1"
         },
         "DIGITAL LOGIC DESIGN LAB": {
-          "COURSE CODE": "U24PC321EC",
+          "COURSE CODE": "U25PC321EC",
           "CREDITS": "1"
         },
         "SIGNALS AND SYSTEMS LAB": {
-          "COURSE CODE": "U24PC331EC",
+          "COURSE CODE": "U25PC331EC",
+          "CREDITS": "1"
+        },
+        "PCB DESIGN AND SIMULATION LAB": {
+          "COURSE CODE": "U25PC341EC",
           "CREDITS": "1"
         }
       },
       "6": {
         "VLSI DESIGN": {
-          "COURSE CODE": "U23PC610EC",
+          "COURSE CODE": "U24PC610EC",
           "CREDITS": "3"
         },
         "DIGITAL SIGNAL PROCESSING": {
-          "COURSE CODE": "U23PC620EC",
+          "COURSE CODE": "U24PC620EC",
           "CREDITS": "4"
         },
         "COMPUTER ORGANIZATION AND ARCHITECTURE": {
-          "COURSE CODE": "U23PC630EC",
+          "COURSE CODE": "U24PC630EC",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE - I": {
-          "COURSE CODE": "U23PE6XXEC",
+          "COURSE CODE": "U24PE6XXXE",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE - IV": {
-          "COURSE CODE": "U23OE6XXXX",
+          "COURSE CODE": "U24OE6XXXX",
           "CREDITS": "3"
         },
         "SKILL DEVELOPMENT COURSE - VII: VERBAL ABILITY": {
-          "COURSE CODE": "U23HS630EH",
+          "COURSE CODE": "U24HS630EH",
           "CREDITS": "1"
         },
         "SKILL DEVELOPMENT COURSE - VIII: TECHNICAL SKILLS - III": {
-          "COURSE CODE": "U23PE660EC",
+          "COURSE CODE": "U24PE660EC",
           "CREDITS": "1"
         },
         "VLSI DESIGN LAB": {
-          "COURSE CODE": "U23PC611EC",
+          "COURSE CODE": "U24PC611EC",
           "CREDITS": "1"
         },
         "DIGITAL SIGNAL PROCESSING LAB": {
-          "COURSE CODE": "U23PC621EC",
+          "COURSE CODE": "U24PC621EC",
           "CREDITS": "1"
         },
         "PROFESSIONAL ELECTIVE - I LAB": {
-          "COURSE CODE": "U23PC6XXEC",
+          "COURSE CODE": "U24PC6XXEC",
           "CREDITS": "1"
         },
         "THEME BASED PROJECT": {
-          "COURSE CODE": "U23PW619EC",
+          "COURSE CODE": "U24PW619EC",
           "CREDITS": "1"
         },
-        "SOC VERIFICATION METHODOLOGIES-SYSTEM ON CHIP DESIGN": {
-          "COURSE CODE": "U23PC650EC",
+        "SOC VERIFICATION METHODOLOGIES IN HONOURS DEGREE IN SYSTEM ON CHIP DESIGN": {
+          "COURSE CODE": "U24PC650EC",
           "CREDITS": "3"
         },
-        "SOC VERIFICATION METHODOLOGIES LAB-SYSTEM ON CHIP DESIGN": {
-          "COURSE CODE": "U23PC651EC",
+        "SOC VERIFICATION METHODOLOGIES LAB IN HONOURS DEGREE IN SYSTEM ON CHIP DESIGN": {
+          "COURSE CODE": "U24PC651EC",
           "CREDITS": "1"
         },
-        "NPTEL COURSES: SOC RELATED 1 NPTEL COURSE WITH 12 WEEKS DURATION-SYSTEM ON CHIP DESIGN": {
-          "COURSE CODE": "",
+        "NPTEL COURSES: SOC RELATED 1 NPTEL COURSE WITH 12 WEEKS DURATION IN HONOURS DEGREE IN SYSTEM ON CHIP DESIGN": {
+          "COURSE CODE": "-",
           "CREDITS": "3"
         }
       },
       "5": {
         "MICROPROCESSORS AND MICROCONTROLLERS": {
-          "COURSE CODE": "U23PC510EC",
+          "COURSE CODE": "U24PC510EC",
           "CREDITS": "3"
         },
         "INTEGRATED CIRCUITS AND APPLICATIONS": {
-          "COURSE CODE": "U23PC520EC",
+          "COURSE CODE": "U24PC520EC",
           "CREDITS": "3"
         },
         "ANALOG AND DIGITAL COMMUNICATION SYSTEMS": {
-          "COURSE CODE": "U23PC530EC",
+          "COURSE CODE": "U24PC530EC",
           "CREDITS": "3"
         },
         "ANTENNAS AND WAVE PROPAGATION": {
-          "COURSE CODE": "U23PC540EC",
-          "CREDITS": "4"
+          "COURSE CODE": "U24PC540EC",
+          "CREDITS": "3"
         },
         "OPEN ELECTIVE - III": {
-          "COURSE CODE": "U230E5XXXX",
+          "COURSE CODE": "U24OE5XXXX",
           "CREDITS": "3"
         },
         "SKILL DEVELOPMENT COURSE-V: COMMUNICATION SKILLS IN ENGLISH-II": {
-          "COURSE CODE": "U23HS510EH",
+          "COURSE CODE": "U24HS510EH",
           "CREDITS": "1"
         },
         "SKILL DEVELOPMENT COURSE-VI: TECHNICAL SKILLS - II": {
-          "COURSE CODE": "U23PE510EC",
+          "COURSE CODE": "U24PE510EC",
+          "CREDITS": "1"
+        },
+        "DESIGN THINKING": {
+          "COURSE CODE": "U24HS530EH",
           "CREDITS": "1"
         },
         "MICROPROCESSORS AND MICROCONTROLLERS LAB": {
-          "COURSE CODE": "U23PC511EC",
+          "COURSE CODE": "U24PC511EC",
           "CREDITS": "1"
         },
         "INTEGRATED CIRCUITS AND APPLICATIONS LAB": {
-          "COURSE CODE": "U23PC521EC",
+          "COURSE CODE": "U24PC521EC",
           "CREDITS": "1"
         },
         "ANALOG AND DIGITAL COMMUNICATION SYSTEMS LAB": {
-          "COURSE CODE": "U23PC531EC",
+          "COURSE CODE": "U24PC531EC",
           "CREDITS": "1"
         },
         "MINI PROJECT - II": {
-          "COURSE CODE": "U23PW519EC",
+          "COURSE CODE": "U24PW519EC",
           "CREDITS": "1"
         },
-        "FPGA BASED SYSTEM DESIGN-SYSTEM ON CHIP DESIGN": {
-          "COURSE CODE": "U23PC550EC",
+        "FPGA BASED SYSTEM DESIGN IN HONOURS DEGREE IN SYSTEM ON CHIP DESIGN": {
+          "COURSE CODE": "U24PC550EC",
           "CREDITS": "3"
         },
-        "FPGA BASED SYSTEM DESIGN LAB-SYSTEM ON CHIP DESIGN": {
-          "COURSE CODE": "U23PC551EC",
+        "FPGA BASED SYSTEM DESIGN LAB IN HONOURS DEGREE IN SYSTEM ON CHIP DESIGN": {
+          "COURSE CODE": "U24PC551EC",
           "CREDITS": "1"
         },
-        "NPTEL COURSES: SOC RELATED 1 NPTEL COURSE WITH 12 WEEKS DURATION-SYSTEM ON CHIP DESIGN": {
-          "COURSE CODE": "",
-          "CREDITS": "3"
-        }
-      },
-      "7": {
-        "MICROWAVE ENGINEERING": {
-          "COURSE CODE": "U22PC710EC",
-          "CREDITS": "3"
-        },
-        "VLSI DESIGN": {
-          "COURSE CODE": "U22PC720EC",
-          "CREDITS": "3"
-        },
-        "PROFESSIONAL ELECTIVE - I": {
-          "COURSE CODE": "U22PE7XXEC",
-          "CREDITS": "3"
-        },
-        "PROFESSIONAL ELECTIVE - II": {
-          "COURSE CODE": "U22PE7XXEC",
-          "CREDITS": "3"
-        },
-        "MICROWAVE ENGINEERING LAB": {
-          "COURSE CODE": "U22PC711EC",
-          "CREDITS": "1"
-        },
-        "VLSI DESIGN LAB": {
-          "COURSE CODE": "U22PC721EC",
-          "CREDITS": "1"
-        },
-        "PROFESSIONAL ELECTIVE - I LAB": {
-          "COURSE CODE": "U22PE7XXEC",
-          "CREDITS": "1"
-        },
-        "PROFESSIONAL ELECTIVE - II LAB": {
-          "COURSE CODE": "U22PE7XXEC",
-          "CREDITS": "1"
-        },
-        "PROJECT SEMINAR": {
-          "COURSE CODE": "U22PW719EC",
-          "CREDITS": "1"
-        },
-        "NPTEL CERTIFICATION COURSE": {
-          "COURSE CODE": "",
-          "CREDITS": "2"
-        },
-        "DESIGN VERIFICATION-SYSTEM ON CHIP DESIGN": {
-          "COURSE CODE": "U23PC740EC",
-          "CREDITS": "3"
-        },
-        "DESIGN VERIFICATION LAB-SYSTEM ON CHIP DESIGN": {
-          "COURSE CODE": "U23PC741EC",
-          "CREDITS": "1"
-        },
-        "COURSE PROJECT-SYSTEM ON CHIP DESIGN": {
-          "COURSE CODE": "U23PW729EC",
-          "CREDITS": "3"
-        },
-        "NPTEL COURSES: SOC RELATED 1 NPTEL COURSE WITH 12 WEEKS DURATION-SYSTEM ON CHIP DESIGN": {
-          "COURSE CODE": "",
+        "NPTEL COURSES: SOC RELATED 1 NPTEL COURSE WITH 12 WEEKS DURATION IN HONOURS DEGREE IN SYSTEM ON CHIP DESIGN": {
+          "COURSE CODE": "-",
           "CREDITS": "3"
         }
       },
       "8": {
         "PROFESSIONAL ELECTIVE - III": {
-          "COURSE CODE": "U22PE8XXEC",
+          "COURSE CODE": "U23PE8XXEC",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE - IV": {
-          "COURSE CODE": "U22PE8XXEC",
+          "COURSE CODE": "U23PE8XXEC",
           "CREDITS": "3"
         },
         "PROJECT / INTERNSHIP": {
-          "COURSE CODE": "U22PW819EC",
+          "COURSE CODE": "U23PW819EC",
           "CREDITS": "6"
+        }
+      },
+      "7": {
+        "MICROWAVE ENGINEERING": {
+          "COURSE CODE": "U23PC710EC",
+          "CREDITS": "3"
+        },
+        "DATA COMMUNICATIONS AND COMPUTER NETWORKS": {
+          "COURSE CODE": "U23PC720EC",
+          "CREDITS": "3"
+        },
+        "CONTROL SYSTEMS ENGINEERING": {
+          "COURSE CODE": "U23PC730EC",
+          "CREDITS": "3"
+        },
+        "PROFESSIONAL ELECTIVE - II": {
+          "COURSE CODE": "U23PE7XXEC",
+          "CREDITS": "3"
+        },
+        "ECONOMICS AND FINANCE FOR ENGINEERS": {
+          "COURSE CODE": "U23HS040EH",
+          "CREDITS": "2"
+        },
+        "MICROWAVE ENGINEERING LAB": {
+          "COURSE CODE": "U23PC711EC",
+          "CREDITS": "1"
+        },
+        "DATA COMMUNICATIONS AND COMPUTER NETWORKS LAB": {
+          "COURSE CODE": "U23PC721EC",
+          "CREDITS": "1"
+        },
+        "CONTROL SYSTEMS ENGINEERING LAB": {
+          "COURSE CODE": "U23PE731EC",
+          "CREDITS": "1"
+        },
+        "PROFESSIONAL ELECTIVE - II LAB": {
+          "COURSE CODE": "U23PE7XXEC",
+          "CREDITS": "1"
+        },
+        "PROJECT SEMINAR": {
+          "COURSE CODE": "U23PW719EC",
+          "CREDITS": "1"
+        },
+        "DESIGN VERIFICATION IN HONOURS DEGREE IN SYSTEM ON CHIP DESIGN": {
+          "COURSE CODE": "U24PC740EC",
+          "CREDITS": "3"
+        },
+        "DESIGN VERIFICATION LAB IN HONOURS DEGREE IN SYSTEM ON CHIP DESIGN": {
+          "COURSE CODE": "U24PC741EC",
+          "CREDITS": "1"
+        },
+        "COURSE PROJECT IN HONOURS DEGREE IN SYSTEM ON CHIP DESIGN": {
+          "COURSE CODE": "U24PW729EC",
+          "CREDITS": "3"
+        },
+        "NPTEL COURSES: SOC RELATED 1 NPTEL COURSE WITH 12 WEEKS DURATION IN HONOURS DEGREE IN SYSTEM ON CHIP DESIGN": {
+          "COURSE CODE": "-",
+          "CREDITS": "3"
         }
       }
     },
     "INFORMATION TECHNOLOGY": {
       "2": {
         "ADVANCED CALCULUS": {
-          "COURSE CODE": "U25BS220MA",
+          "COURSE CODE": "U26BS230MA",
           "CREDITS": "3"
         },
         "MATERIAL CHEMISTRY": {
-          "COURSE CODE": "U25BS210CH",
+          "COURSE CODE": "U26BS210CH",
           "CREDITS": "2"
         },
         "BASIC ENGINEERING MECHANICS": {
-          "COURSE CODE": "U25ES010CE",
+          "COURSE CODE": "U26ES010CE",
           "CREDITS": "2"
         },
         "BASIC ELECTRONICS": {
-          "COURSE CODE": "U25ES210IT",
+          "COURSE CODE": "U26ES210IT",
           "CREDITS": "2"
         },
         "DIGITAL ELECTRONICS & LOGIC DESIGN": {
-          "COURSE CODE": "U25ES220IT",
+          "COURSE CODE": "U26ES220IT",
           "CREDITS": "3"
         },
-        "STRUCTURED PROGRAMMING FOR PROBLEM SOLVING": {
-          "COURSE CODE": "U25ES230IT",
+        "DATA STRUCTURES": {
+          "COURSE CODE": "U26ES230IT",
           "CREDITS": "3"
         },
         "HUMAN VALUES & PROFESSIONAL ETHICS - I": {
-          "COURSE CODE": "U25HS020EH",
+          "COURSE CODE": "U26HS020EH",
           "CREDITS": "1"
         },
         "SKILL DEVELOPMENT COURSE - II (TECHNICAL SKILLS-II)": {
-          "COURSE CODE": "U25PE210IT",
+          "COURSE CODE": "U26PE210IT",
           "CREDITS": "1"
         },
         "CHEMISTRY LAB": {
-          "COURSE CODE": "U25BS011CH",
+          "COURSE CODE": "U26BS011CH",
           "CREDITS": "1"
         },
         "BASIC ELECTRONICS LAB": {
-          "COURSE CODE": "U25ES211IT",
+          "COURSE CODE": "U26ES211IT",
           "CREDITS": "1"
         },
-        "STRUCTURED PROGRAMMING FOR PROBLEM SOLVING LAB": {
-          "COURSE CODE": "U25ES231IT",
+        "DATA STRUCTURES LAB": {
+          "COURSE CODE": "U26ES231IT",
           "CREDITS": "1"
         }
       },
       "1": {
         "ENGLISH LANGUAGE AND COMMUNICATION": {
-          "COURSE CODE": "U25HS010EH",
+          "COURSE CODE": "U26HS010EH",
           "CREDITS": "2"
         },
         "CALCULUS AND LINEAR ALGEBRA": {
-          "COURSE CODE": "U25BS120MA",
+          "COURSE CODE": "U26BS130MA",
           "CREDITS": "3"
         },
         "PHYSICS OF SEMICONDUCTORS": {
-          "COURSE CODE": "U25BS110PH",
+          "COURSE CODE": "U26BS110PH",
           "CREDITS": "2"
         },
-        "PYTHON PROGRAMMING": {
-          "COURSE CODE": "U25ES110IT",
+        "STRUCTURED PROGRAMMING FOR PROBLEM SOLVING": {
+          "COURSE CODE": "U26ES110IT",
           "CREDITS": "3"
         },
         "BASIC ELECTRICAL ENGINEERING": {
-          "COURSE CODE": "U25ES010EE",
+          "COURSE CODE": "U26ES010EE",
           "CREDITS": "2"
         },
         "BASIC ENGINEERING DRAWING": {
-          "COURSE CODE": "U25ES030CE",
+          "COURSE CODE": "U26ES030CE",
           "CREDITS": "2"
         },
         "LEARNING TO LEARN": {
-          "COURSE CODE": "U25HS040EH",
+          "COURSE CODE": "U26HS040EH",
           "CREDITS": "1"
         },
         "SKILL DEVELOPMENT COURSE-I (TECHNICAL SKILLS-I)": {
-          "COURSE CODE": "U25PE110IT",
+          "COURSE CODE": "U26PE110IT",
           "CREDITS": "1"
         },
         "ENGLISH LANGUAGE AND COMMUNICATION SKILLS LAB": {
-          "COURSE CODE": "U25HS011EH",
+          "COURSE CODE": "U26HS011EH",
           "CREDITS": "1"
         },
         "SEMICONDUCTOR AND OPTOELECTRONICS LAB": {
-          "COURSE CODE": "U25BS111PH",
+          "COURSE CODE": "U26BS111PH",
           "CREDITS": "1"
         },
-        "PYTHON PROGRAMMING LAB": {
-          "COURSE CODE": "U25ES111IT",
+        "STRUCTURED PROGRAMMING FOR PROBLEM SOLVING LAB": {
+          "COURSE CODE": "U26ES111IT",
           "CREDITS": "1"
         },
         "BASIC ELECTRICAL ENGINEERING LAB": {
-          "COURSE CODE": "U25ES011EE",
+          "COURSE CODE": "U26ES011EE",
           "CREDITS": "1"
         }
       },
       "4": {
-        "PROBABILITY AND STATISTICS": {
-          "COURSE CODE": "U24BS420MA",
-          "CREDITS": "3"
-        },
-        "COMPUTER ORGANIZATION": {
-          "COURSE CODE": "U24PC410IT",
+        "DISCRETE MATHEMATICS": {
+          "COURSE CODE": "U25BS420MA",
           "CREDITS": "3"
         },
         "DATABASE MANAGEMENT SYSTEMS": {
-          "COURSE CODE": "U24PC420IT",
+          "COURSE CODE": "U25PC410IT",
           "CREDITS": "3"
         },
         "DESIGN & ANALYSIS OF ALGORITHMS": {
-          "COURSE CODE": "U24PC430IT",
+          "COURSE CODE": "U25PC420IT",
           "CREDITS": "3"
         },
         "FULL STACK DEVELOPMENT": {
-          "COURSE CODE": "U24PC440IT",
+          "COURSE CODE": "U25PC430IT",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE - II": {
-          "COURSE CODE": "U24OE4XXXX",
+          "COURSE CODE": "U25OE4XXXX",
           "CREDITS": "3"
         },
         "HUMAN VALUES AND PROFESSIONAL ETHICS - II": {
-          "COURSE CODE": "U24HS030EH",
+          "COURSE CODE": "U25HS030EH",
           "CREDITS": "1"
         },
-        "SKILL DEVELOPMENT COURSE - III (APTITUDE)": {
-          "COURSE CODE": "U24BS430MA",
+        "SKILL DEVELOPMENT COURSE - V (APTITUDE)": {
+          "COURSE CODE": "U25BS430MA",
           "CREDITS": "1"
         },
-        "SKILL DEVELOPMENT COURSE - IV (TECHNICAL SKILLS- II)": {
-          "COURSE CODE": "U24PE410IT",
+        "SKILL DEVELOPMENT COURSE - VI (TECHNICAL SKILLS- IV)": {
+          "COURSE CODE": "U25PE410IT",
           "CREDITS": "1"
         },
         "DATABASE MANAGEMENT SYSTEMS LAB": {
-          "COURSE CODE": "U24PC421IT",
+          "COURSE CODE": "U25PC411IT",
           "CREDITS": "1"
         },
         "DESIGN AND ANALYSIS OF ALGORITHMS LAB": {
-          "COURSE CODE": "U24PC431IT",
+          "COURSE CODE": "U25PC421IT",
           "CREDITS": "1"
         },
         "FULL STACK DEVELOPMENT LAB": {
-          "COURSE CODE": "U24PC441IT",
+          "COURSE CODE": "U25PC431IT",
           "CREDITS": "1"
         }
       },
       "3": {
-        "DISCRETE MATHEMATICS": {
-          "COURSE CODE": "U24BS330MA",
+        "PROBABILITY AND STATISTICS": {
+          "COURSE CODE": "U25BS330MA",
           "CREDITS": "4"
         },
-        "DIGITAL ELECTRONICS & LOGIC DESIGN": {
-          "COURSE CODE": "U24ES310IT",
-          "CREDITS": "3"
+        "COMPUTER ORGANIZATION": {
+          "COURSE CODE": "U25PC310IT",
+          "CREDITS": "4"
         },
         "DATA STRUCTURES": {
-          "COURSE CODE": "U24PC310IT",
+          "COURSE CODE": "U25PC320IT",
           "CREDITS": "3"
         },
         "OBJECT ORIENTED PROGRAMMING": {
-          "COURSE CODE": "U24PC320IT",
+          "COURSE CODE": "U25PC330IT",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE - I": {
-          "COURSE CODE": "U24OE3XXXX",
+          "COURSE CODE": "U25OE3XXXX",
           "CREDITS": "2"
         },
         "CRITICAL THINKING": {
-          "COURSE CODE": "U24HS310EH",
+          "COURSE CODE": "U25HS310EH",
           "CREDITS": "1"
         },
-        "SKILL DEVELOPMENT COURSE - I (COMMUNICATION SKILLS IN ENGLISH-I)": {
-          "COURSE CODE": "U24HS320EH",
+        "SKILL DEVELOPMENT COURSE - III (COMMUNICATION SKILLS IN ENGLISH-I)": {
+          "COURSE CODE": "U25HS320EH",
           "CREDITS": "1"
         },
-        "SKILL DEVELOPMENT COURSE - II (TECHNICAL SKILLS- I)": {
-          "COURSE CODE": "U24PE310IT",
+        "SKILL DEVELOPMENT COURSE - IV (TECHNICAL SKILLS- III)": {
+          "COURSE CODE": "U25PE310IT",
           "CREDITS": "1"
         },
         "DATA STRUCTURES LAB": {
-          "COURSE CODE": "U24PC311IT",
+          "COURSE CODE": "U25PC321IT",
           "CREDITS": "1"
         },
         "OBJECT ORIENTED PROGRAMMING LAB": {
-          "COURSE CODE": "U24PC321IT",
+          "COURSE CODE": "U25PC331IT",
           "CREDITS": "1"
         },
         "NETWORK ENGINEERING LAB": {
-          "COURSE CODE": "U24PC331IT",
-          "CREDITS": "1"
-        }
-      },
-      "6": {
-        "SOFTWARE ENGINEERING": {
-          "COURSE CODE": "U23PC610IT",
-          "CREDITS": "3"
-        },
-        "DISTRIBUTED SYSTEMS & CLOUD COMPUTING": {
-          "COURSE CODE": "U23PC620IT",
-          "CREDITS": "4"
-        },
-        "NEURAL NETWORKS AND DEEP LEARNING": {
-          "COURSE CODE": "U23PC630IT",
-          "CREDITS": "3"
-        },
-        "OPEN ELECTIVE - IV": {
-          "COURSE CODE": "U23OE6XXXX",
-          "CREDITS": "3"
-        },
-        "ECONOMICS AND FINANCE FOR ENGINEERS": {
-          "COURSE CODE": "U23HS040EH",
-          "CREDITS": "2"
-        },
-        "SKILL DEVELOPMENT COURSE - VII (VERBAL ABILITY)": {
-          "COURSE CODE": "U23HS630EH",
-          "CREDITS": "1"
-        },
-        "SKILL DEVELOPMENT COURSE - VIII (TECHNICAL SKILLS - IV)": {
-          "COURSE CODE": "U23PE610IT",
-          "CREDITS": "1"
-        },
-        "SOFTWARE ENGINEERING LAB": {
-          "COURSE CODE": "U23PC611IT",
-          "CREDITS": "1"
-        },
-        "DISTRIBUTED SYSTEMS & CLOUD COMPUTING LAB": {
-          "COURSE CODE": "U23PC621IT",
-          "CREDITS": "1"
-        },
-        "NEURAL NETWORKS AND DEEP LEARNING LAB": {
-          "COURSE CODE": "U23PC631IT",
-          "CREDITS": "1"
-        },
-        "THEME BASED PROJECT": {
-          "COURSE CODE": "U23PW619IT",
+          "COURSE CODE": "U25PC341IT",
           "CREDITS": "1"
         }
       },
       "5": {
         "COMPUTER NETWORKS": {
-          "COURSE CODE": "U23PC510IT",
-          "CREDITS": "4"
-        },
-        "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING": {
-          "COURSE CODE": "U23PC520IT",
+          "COURSE CODE": "U24PC510IT",
           "CREDITS": "3"
         },
-        "MICROPROCESSORS & INTERFACING": {
-          "COURSE CODE": "U23PC530IT",
-          "CREDITS": "2"
+        "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING": {
+          "COURSE CODE": "U24PC520IT",
+          "CREDITS": "3"
+        },
+        "SOFTWARE ENGINEERING": {
+          "COURSE CODE": "U24PC530IT",
+          "CREDITS": "3"
         },
         "OPERATING SYSTEMS": {
-          "COURSE CODE": "U23PC540IT",
+          "COURSE CODE": "U24PC540IT",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE - III": {
-          "COURSE CODE": "U23OE5XXXX",
+          "COURSE CODE": "U24OE5XXXX",
           "CREDITS": "3"
         },
-        "DESIGN THINKING": {
-          "COURSE CODE": "U25HS570EH",
+        "SKILL DEVELOPMENT - V (COMMUNICATION SKILLS - II)": {
+          "COURSE CODE": "U24HS510EH",
           "CREDITS": "1"
         },
-        "SKILL DEVELOPMENT COURSE -V (COMMUNICATION SKILLS IN ENGLISH - II)": {
-          "COURSE CODE": "U23HS510EH",
-          "CREDITS": "1"
-        },
-        "SKILL DEVELOPMENT COURSE - VI (TECHNICAL SKILLS - III)": {
-          "COURSE CODE": "U23PE510IT",
+        "SKILL DEVELOPMENT - VI (TECHNICAL SKILLS - III)": {
+          "COURSE CODE": "U24PE510IT",
           "CREDITS": "1"
         },
         "COMPUTER NETWORKS LAB": {
-          "COURSE CODE": "U23PC511IT",
+          "COURSE CODE": "U24PC511IT",
           "CREDITS": "1"
         },
         "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING LAB": {
-          "COURSE CODE": "U23PC521IT",
+          "COURSE CODE": "U24PC521IT",
           "CREDITS": "1"
         },
-        "MICROPROCESSORS & INTERFACING LAB": {
-          "COURSE CODE": "U23PC531IT",
+        "SOFTWARE ENGINEERING LAB": {
+          "COURSE CODE": "U24PC531IT",
           "CREDITS": "1"
         },
         "OPERATING SYSTEMS LAB": {
-          "COURSE CODE": "U23PC541IT",
+          "COURSE CODE": "U24PC541IT",
+          "CREDITS": "1"
+        },
+        "THEME BASED PROJECT": {
+          "COURSE CODE": "U24PW519IT",
           "CREDITS": "1"
         }
       },
-      "7": {
-        "AUTOMATA THEORY AND COMPILER DESIGN": {
-          "COURSE CODE": "U22PC710IT",
-          "CREDITS": "4"
-        },
+      "6": {
         "DISTRIBUTED SYSTEMS & CLOUD COMPUTING": {
-          "COURSE CODE": "U22PC720IT",
+          "COURSE CODE": "U24PC610IT",
           "CREDITS": "4"
         },
-        "CYBER SECURITY": {
-          "COURSE CODE": "U22PC730IT",
+        "DEEP LEARNING": {
+          "COURSE CODE": "U24PC620IT",
+          "CREDITS": "4"
+        },
+        "CYBERSECURITY": {
+          "COURSE CODE": "U24PC630IT",
           "CREDITS": "3"
         },
-        "PROFESSIONAL ELECTIVE - I": {
-          "COURSE CODE": "U22PE7XXIT",
+        "DESIGN THINKING": {
+          "COURSE CODE": "U24HS530EH",
+          "CREDITS": "1"
+        },
+        "OPEN ELECTIVE - IV": {
+          "COURSE CODE": "U24OE6XXXX",
           "CREDITS": "3"
         },
-        "PROFESSIONAL ELECTIVE - II": {
-          "COURSE CODE": "U22PE7XXIT",
-          "CREDITS": "3"
+        "SKILL DEVELOPMENT COURSE - VII (VERBAL ABILITY)": {
+          "COURSE CODE": "U24HS630EH",
+          "CREDITS": "1"
         },
-        "COMPILER DESIGN LAB": {
-          "COURSE CODE": "U22PC711IT",
+        "SKILL DEVELOPMENT COURSE - VIII (TECHNICAL SKILLS -IV)": {
+          "COURSE CODE": "U24PE610IT",
           "CREDITS": "1"
         },
         "DISTRIBUTED SYSTEMS & CLOUD COMPUTING LAB": {
-          "COURSE CODE": "U22PC721IT",
+          "COURSE CODE": "U24PC611IT",
           "CREDITS": "1"
         },
-        "PROFESSIONAL ELECTIVE - I LAB": {
-          "COURSE CODE": "U22PE7XXIT",
+        "DEEP LEARNING LAB": {
+          "COURSE CODE": "U24PC621IT",
           "CREDITS": "1"
         },
-        "PROFESSIONAL ELECTIVE - II LAB": {
-          "COURSE CODE": "U22PE7XXIT",
+        "CYBERSECURITY LAB": {
+          "COURSE CODE": "U24PC631IT",
           "CREDITS": "1"
         },
-        "PROJECT SEMINAR": {
-          "COURSE CODE": "U22PW719IT",
+        "THEME BASED PROJECT": {
+          "COURSE CODE": "U24PW619IT",
           "CREDITS": "1"
         }
       },
       "8": {
         "PROFESSIONAL ELECTIVE - III": {
-          "COURSE CODE": "U22PE8XXIT",
+          "COURSE CODE": "U23PE8XXIT",
           "CREDITS": "3"
         },
-        "PROFESSIONAL ELECTIVE -IV": {
-          "COURSE CODE": "U22PE8XXIT",
+        "PROFESSIONAL ELECTIVE - IV": {
+          "COURSE CODE": "U23PE8XXIT",
           "CREDITS": "3"
         },
         "PROJECT / INTERNSHIP": {
-          "COURSE CODE": "U22PW819IT",
+          "COURSE CODE": "U23PW819IT",
           "CREDITS": "6"
+        }
+      },
+      "7": {
+        "AUTOMATA THEORY AND COMPILER DESIGN": {
+          "COURSE CODE": "U23PC710IT",
+          "CREDITS": "4"
+        },
+        "NATURAL LANGUAGE PROCESSING": {
+          "COURSE CODE": "U23PC720IT",
+          "CREDITS": "3"
+        },
+        "CYBER SECURITY": {
+          "COURSE CODE": "U23PC730IT",
+          "CREDITS": "3"
+        },
+        "PROFESSIONAL ELECTIVE - I": {
+          "COURSE CODE": "U23PE7XXIT",
+          "CREDITS": "3"
+        },
+        "PROFESSIONAL ELECTIVE - II": {
+          "COURSE CODE": "U23PE7XXIT",
+          "CREDITS": "3"
+        },
+        "COMPILER DESIGN LAB": {
+          "COURSE CODE": "U23PC711IT",
+          "CREDITS": "1"
+        },
+        "NATURAL LANGUAGE PROCESSING LAB": {
+          "COURSE CODE": "U23PC721IT",
+          "CREDITS": "1"
+        },
+        "PROFESSIONAL ELECTIVE - I LAB": {
+          "COURSE CODE": "U23PE7XXIT",
+          "CREDITS": "1"
+        },
+        "PROFESSIONAL ELECTIVE - II LAB": {
+          "COURSE CODE": "U23PE7XXIT",
+          "CREDITS": "1"
+        },
+        "PROJECT SEMINAR": {
+          "COURSE CODE": "U23PW719IT",
+          "CREDITS": "1"
+        },
+        "COMPUTER VISION": {
+          "COURSE CODE": "U23PE710IT",
+          "CREDITS": "0"
+        },
+        "CRYPTOGRAPHY & NETWORK SECURITY": {
+          "COURSE CODE": "U23PE720IT",
+          "CREDITS": "0"
+        },
+        "UNMANNED AUTONOMOUS SYSTEMS": {
+          "COURSE CODE": "U23PE730IT",
+          "CREDITS": "0"
+        },
+        "GENERATIVE AI": {
+          "COURSE CODE": "U23PE740IT",
+          "CREDITS": "0"
+        },
+        "BLOCKCHAIN": {
+          "COURSE CODE": "U23PE750IT",
+          "CREDITS": "0"
+        },
+        "EMBEDDED SYSTEMS & IoT": {
+          "COURSE CODE": "U23PE760IT",
+          "CREDITS": "0"
+        },
+        "COMPUTER VISION LAB": {
+          "COURSE CODE": "U23PE711IT",
+          "CREDITS": "0"
+        },
+        "CRYPTOGRAPHY & NETWORK SECURITY LAB": {
+          "COURSE CODE": "U23PE721IT",
+          "CREDITS": "0"
+        },
+        "UNMANNED AUTONOMOUS SYSTEMS LAB": {
+          "COURSE CODE": "U23PE731IT",
+          "CREDITS": "0"
+        },
+        "GENERATIVE AI LAB": {
+          "COURSE CODE": "U23PE741IT",
+          "CREDITS": "0"
+        },
+        "BLOCKCHAIN LAB": {
+          "COURSE CODE": "U23PE751IT",
+          "CREDITS": "0"
+        },
+        "EMBEDDED SYSTEMS & IoT LAB": {
+          "COURSE CODE": "U23PE761IT",
+          "CREDITS": "0"
         }
       }
     },
     "MECHANICAL ENGINEERING": {
       "2": {
         "ENGLISH LANGUAGE AND COMMUNICATION": {
-          "COURSE CODE": "U25HS010EH",
+          "COURSE CODE": "U26HS010EH",
           "CREDITS": "2"
         },
-        "DIFFERENTIAL EQUATIONS & VECTOR CALCULUS": {
-          "COURSE CODE": "U25BS210MA",
+        "DIFFERENTIAL EQUATIONS & MULTI VARIABLE CALCULUS": {
+          "COURSE CODE": "U26BS220MA",
           "CREDITS": "3"
         },
         "ENGINEERING PHYSICS": {
-          "COURSE CODE": "U25BS230PH",
+          "COURSE CODE": "U26BS230PH",
           "CREDITS": "2"
         },
         "ENGINEERING MECHANICS-DYNAMICS": {
-          "COURSE CODE": "U25ES230CE",
+          "COURSE CODE": "U26ES230CE",
           "CREDITS": "3"
         },
         "ENGINEERING DRAWING-II": {
-          "COURSE CODE": "U25ES220CE",
+          "COURSE CODE": "U26ES220CE",
           "CREDITS": "2"
         },
-        "THERMODYNAMICS": {
-          "COURSE CODE": "U25PC210ME",
+        "ENGINEERING THERMODYNAMICS": {
+          "COURSE CODE": "U26PC210ME",
           "CREDITS": "3"
         },
         "LEARNING TO LEARN": {
-          "COURSE CODE": "U25HS040EH",
+          "COURSE CODE": "U26HS040EH",
           "CREDITS": "1"
         },
         "ENGLISH LANGUAGE AND COMMUNICATION SKILLS LAB": {
-          "COURSE CODE": "U25HS011EH",
+          "COURSE CODE": "U26HS011EH",
           "CREDITS": "1"
         },
         "ENGINEERING PHYSICS LAB": {
-          "COURSE CODE": "U25BS211PH",
+          "COURSE CODE": "U26BS211PH",
           "CREDITS": "1"
         },
         "ENGINEERING WORKSHOP -II": {
-          "COURSE CODE": "U25ES211ME",
+          "COURSE CODE": "U26ES211ME",
           "CREDITS": "1"
         }
       },
       "1": {
-        "MATRICES & CALCULUS": {
-          "COURSE CODE": "U25BS110MA",
+        "MATRIX THEORY AND DIFFERENTIAL CALCULUS": {
+          "COURSE CODE": "U26BS110MA",
           "CREDITS": "3"
         },
         "APPLIED CHEMISTRY FOR MECHANICAL ENGINEERS": {
-          "COURSE CODE": "U25BS130CH",
+          "COURSE CODE": "U26BS130CH",
           "CREDITS": "2"
         },
         "ENGINEERING MECHANICS-STATICS": {
-          "COURSE CODE": "U25ES110CE",
+          "COURSE CODE": "U26ES110CE",
           "CREDITS": "3"
         },
         "BASIC ELECTRICAL AND ELECTRONICS ENGINEERING": {
-          "COURSE CODE": "U25ES120EE",
+          "COURSE CODE": "U26ES120EE",
           "CREDITS": "2"
         },
         "ENGINEERING DRAWING-I": {
-          "COURSE CODE": "U25ES120CE",
+          "COURSE CODE": "U26ES120CE",
           "CREDITS": "2"
         },
         "MATERIALS ENGINEERING": {
-          "COURSE CODE": "U25PC110ME",
+          "COURSE CODE": "U26PC110ME",
           "CREDITS": "3"
         },
         "HUMAN VALUES AND PROFESSIONAL ETHICS-I": {
-          "COURSE CODE": "U25HS020EH",
+          "COURSE CODE": "U26HS020EH",
           "CREDITS": "1"
         },
         "ENVIRONMENTAL SCIENCE": {
-          "COURSE CODE": "U25MC010CE",
+          "COURSE CODE": "U26MC010CE",
           "CREDITS": "0"
         },
         "CHEMISTRY LAB": {
-          "COURSE CODE": "U25BS011CH",
+          "COURSE CODE": "U26BS011CH",
           "CREDITS": "1"
         },
         "BASIC ELECTRICAL AND ELECTRONICS ENGINEERING LAB": {
-          "COURSE CODE": "U25ES121EE",
+          "COURSE CODE": "U26ES121EE",
           "CREDITS": "1"
         },
         "MATERIALS ENGINEERING LAB": {
-          "COURSE CODE": "U25PC111ME",
+          "COURSE CODE": "U26PC111ME",
           "CREDITS": "1"
         },
         "ENGINEERING WORKSHOP-I": {
-          "COURSE CODE": "U25ES111ME",
+          "COURSE CODE": "U26ES111ME",
           "CREDITS": "1"
         }
       },
       "3": {
         "TRANSFORM TECHNIQUES & PARTIAL DIFFERENTIAL EQUATIONS": {
-          "COURSE CODE": "U24BS310MA",
-          "CREDITS": "3"
-        },
-        "MATERIALS ENGINEERING": {
-          "COURSE CODE": "U24PC310ME",
-          "CREDITS": "3"
-        },
-        "PROGRAMMING FOR ENGINEERS": {
-          "COURSE CODE": "U24ES320ME",
+          "COURSE CODE": "U25BS310MA",
           "CREDITS": "3"
         },
         "MECHANICS OF MATERIALS": {
-          "COURSE CODE": "U24PC330ME",
+          "COURSE CODE": "U25PC310ME",
+          "CREDITS": "3"
+        },
+        "APPLIED THERMODYNAMICS": {
+          "COURSE CODE": "U25PC320ME",
+          "CREDITS": "4"
+        },
+        "PROGRAMMING FOR ENGINEERS": {
+          "COURSE CODE": "U25ES310ME",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE-I": {
-          "COURSE CODE": "U24OE3XXXX",
+          "COURSE CODE": "U25OE3XXXXX",
           "CREDITS": "2"
         },
         "HUMAN VALUES AND PROFESSIONAL ETHICS-II": {
-          "COURSE CODE": "U24HS030EH",
+          "COURSE CODE": "U25HS030EH",
           "CREDITS": "1"
         },
         "SKILL DEVELOPMENT COURSE I - COMMUNICATION SKILLS IN ENGLISH I": {
-          "COURSE CODE": "U24HS320EH",
+          "COURSE CODE": "U25HS320EH",
           "CREDITS": "1"
         },
         "SKILL DEVELOPMENT COURSE II - APTITUDE-I": {
-          "COURSE CODE": "U24BS330MA",
+          "COURSE CODE": "U25BS330MA",
           "CREDITS": "1"
         },
         "CRITICAL THINKING": {
-          "COURSE CODE": "U24HS310EH",
-          "CREDITS": "1"
-        },
-        "MATERIALS ENGINEERING LAB": {
-          "COURSE CODE": "U24PC311ME",
-          "CREDITS": "1"
-        },
-        "PROGRAMMING FOR ENGINEERS LAB": {
-          "COURSE CODE": "U24ES321ME",
+          "COURSE CODE": "U25HS310EH",
           "CREDITS": "1"
         },
         "MECHANICS OF MATERIALS LAB": {
-          "COURSE CODE": "U24PC331ME",
+          "COURSE CODE": "U25PC311ME",
+          "CREDITS": "1"
+        },
+        "APPLIED THERMODYNAMICS LAB": {
+          "COURSE CODE": "U25PC321ME",
+          "CREDITS": "1"
+        },
+        "PROGRAMMING FOR ENGINEERS LAB": {
+          "COURSE CODE": "U25ES311ME",
           "CREDITS": "1"
         }
       },
       "4": {
         "NUMERICAL METHODS, PROBABILITY & STATISTICS": {
-          "COURSE CODE": "U24BS410MA",
-          "CREDITS": "3"
-        },
-        "APPLIED THERMODYNAMICS": {
-          "COURSE CODE": "U24PC410ME",
-          "CREDITS": "3"
-        },
-        "FLUID MECHANICS AND HYDRAULIC MACHINES": {
-          "COURSE CODE": "U24PC420ME",
-          "CREDITS": "3"
-        },
-        "PROGRAMMING THROUGH DATA STRUCTURES": {
-          "COURSE CODE": "U24ES430ME",
+          "COURSE CODE": "U25BS410MA",
           "CREDITS": "3"
         },
         "MACHINE DRAWING": {
-          "COURSE CODE": "U24PC440ME",
+          "COURSE CODE": "U25PC410ME",
+          "CREDITS": "3"
+        },
+        "FLUID MECHANICS AND HYDRAULIC MACHINES": {
+          "COURSE CODE": "U25PC420ME",
+          "CREDITS": "4"
+        },
+        "KINEMATICS OF MACHINES": {
+          "COURSE CODE": "U25PC430ME",
+          "CREDITS": "3"
+        },
+        "PROGRAMMING THROUGH DATA STRUCTURES": {
+          "COURSE CODE": "U25ES410ME",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE II": {
-          "COURSE CODE": "U24OE4XXXX",
+          "COURSE CODE": "U25OE4XXXX",
           "CREDITS": "3"
         },
-        "SKILL DEVELOPMENT COURSE III- APTITUDE II": {
-          "COURSE CODE": "U24BS430MA",
+        "SKILL DEVELOPMENT COURSE III-APTITUDE II": {
+          "COURSE CODE": "U25BS430MA",
           "CREDITS": "1"
         },
-        "SKILL DEVELOPMENT COURSE IV- TECHNICAL SKILLS I (CADD AND INTRODUCTION TO SOLID MODELLING)": {
-          "COURSE CODE": "U24PE430ME",
-          "CREDITS": "1"
-        },
-        "APPLIED THERMODYNAMICS LAB": {
-          "COURSE CODE": "U24PC411ME",
+        "SKILL DEVELOPMENT COURSE IV-TECHNICAL SKILLS I (CADD AND INTRODUCTION TO SOLID MODELLING)": {
+          "COURSE CODE": "U25PE430ME",
           "CREDITS": "1"
         },
         "FLUID MECHANICS AND HYDRAULIC MACHINES LAB": {
-          "COURSE CODE": "U24PC421ME",
+          "COURSE CODE": "U25PC421ME",
           "CREDITS": "1"
         },
         "PROGRAMMING THROUGH DATA STRUCTURES LAB": {
-          "COURSE CODE": "U24ES431ME",
+          "COURSE CODE": "U24ES411ME",
           "CREDITS": "1"
         }
       },
       "5": {
         "INTRODUCTION TO ROBOTICS AND AUTOMATION": {
-          "COURSE CODE": "U23PC560ME",
+          "COURSE CODE": "U24PC560ME",
           "CREDITS": "3"
         },
         "CONTROL ENGINEERING": {
-          "COURSE CODE": "U23PC570ME",
+          "COURSE CODE": "U24PC570ME",
           "CREDITS": "3"
         },
         "HEAT TRANSFER": {
-          "COURSE CODE": "U23PC510ME",
+          "COURSE CODE": "U24PC510ME",
           "CREDITS": "3"
         },
         "KINEMATICS OF MACHINES": {
-          "COURSE CODE": "U23PC520ME",
+          "COURSE CODE": "U24PC520ME",
           "CREDITS": "3"
         },
         "MANUFACTURING PROCESSES": {
-          "COURSE CODE": "U23PC530ME",
+          "COURSE CODE": "U24PC530ME",
           "CREDITS": "3"
         },
         "DESIGN OF MACHINE ELEMENTS": {
-          "COURSE CODE": "U23PC540ME",
+          "COURSE CODE": "U24PC540ME",
           "CREDITS": "3"
         },
         "CAD / CAM": {
-          "COURSE CODE": "U23PC550ME",
+          "COURSE CODE": "U24PC550ME",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE - III": {
-          "COURSE CODE": "U23OE5XXXX",
+          "COURSE CODE": "U24OE5XXXX",
           "CREDITS": "3"
         },
-        "SKILL DEVELOPMENT COURSE V (COMMUNICATIONS SKILLS IN ENGLISH II)": {
-          "COURSE CODE": "U23HS510EH",
+        "SKILL DEVELOPMENT COURSE V : COMMUNICATIONS SKILLS IN ENGLISH II": {
+          "COURSE CODE": "U24HS510EH",
           "CREDITS": "1"
         },
         "SKILL DEVELOPMENT COURSE-VI (TECHNICAL SKILLS-II) MATHEMATICAL PROGRAMMING FOR MECHANICAL ENGINEERS": {
-          "COURSE CODE": "U23PE510ME",
+          "COURSE CODE": "U24PE510ME",
           "CREDITS": "1"
         },
-        "MANUFACTURING PROCESSES LAB": {
-          "COURSE CODE": "U23PC531ME",
+        "DESIGN THINKING": {
+          "COURSE CODE": "U24HS530EH",
           "CREDITS": "1"
         },
-        "CAD/CAM LAB": {
-          "COURSE CODE": "U23PC551ME",
-          "CREDITS": "1"
-        },
-        "PROGRAMMING FOR MECHANICAL ENGINEERS LAB": {
-          "COURSE CODE": "U23PC561ME",
-          "CREDITS": "1"
-        },
-        "MINI PROJECT": {
-          "COURSE CODE": "U23PW519ME",
-          "CREDITS": "1"
+        "ROBOTICS RELATED NPTEL COURSE": {
+          "COURSE CODE": "NPTEL",
+          "CREDITS": "3"
         }
       },
       "6": {
         "EMBEDDED C PROGRAMMING": {
-          "COURSE CODE": "U23PC660ME",
+          "COURSE CODE": "U24PC660ME",
           "CREDITS": "3"
         },
         "METROLOGY AND INSTRUMENTATION": {
-          "COURSE CODE": "U23PC610ME",
+          "COURSE CODE": "U24PC610ME",
           "CREDITS": "3"
         },
         "DYNAMICS OF MACHINES": {
-          "COURSE CODE": "U23PC620ME",
+          "COURSE CODE": "U24PC620ME",
           "CREDITS": "3"
         },
         "MACHINE DESIGN": {
-          "COURSE CODE": "U23PC630ME",
+          "COURSE CODE": "U24PC630ME",
           "CREDITS": "3"
         },
         "METAL CUTTING AND MACHINE TOOLS": {
-          "COURSE CODE": "U23PC640ME",
+          "COURSE CODE": "U24PC640ME",
           "CREDITS": "3"
         },
-        "ECONOMICS AND FINANCE FOR ENGINEERS": {
-          "COURSE CODE": "U23HS040EH",
-          "CREDITS": "2"
+        "REFRIGERATION AND AIR CONDITIONING": {
+          "COURSE CODE": "U24PC650ME",
+          "CREDITS": "3"
         },
         "OPEN ELECTIVE-IV": {
-          "COURSE CODE": "U23OE6XXXX",
+          "COURSE CODE": "U24OE6XXXX",
           "CREDITS": "3"
         },
         "SKILL DEVELOPMENT COURSE-VII (VERBAL ABILITY)": {
-          "COURSE CODE": "U23HS630EH",
+          "COURSE CODE": "U24HS630EH",
           "CREDITS": "1"
         },
         "SKILL DEVELOPMENT COURSE-VIII (TECHNICAL SKILLS-III)": {
-          "COURSE CODE": "U23PE610ME",
-          "CREDITS": "1"
-        },
-        "DESIGN THINKING": {
-          "COURSE CODE": "U23HS640EH",
+          "COURSE CODE": "U24PE610ME",
           "CREDITS": "1"
         },
         "THEORY OF MACHINES LAB": {
-          "COURSE CODE": "U23PC621ME",
+          "COURSE CODE": "U24PC621ME",
           "CREDITS": "1"
         },
         "MACHINE TOOLS AND METROLOGY LAB": {
-          "COURSE CODE": "U23PC641ME",
+          "COURSE CODE": "U24PC641ME",
           "CREDITS": "1"
         },
         "THEME BASED PROJECT": {
-          "COURSE CODE": "U23PW619ME",
+          "COURSE CODE": "U24PW619ME",
           "CREDITS": "1"
+        },
+        "ROBOTICS RELATED NPTEL COURSE": {
+          "COURSE CODE": "NPTEL",
+          "CREDITS": "3"
         }
       },
       "7": {
-        "ROBOTICS AND CONTROL-Robotics": {
-          "COURSE CODE": "U23PC760ME",
-          "CREDITS": "3"
-        },
-        "ROBOTICS LAB-Robotics": {
-          "COURSE CODE": "U23PC770ME",
-          "CREDITS": "1"
-        },
-        "COURSE PROJECT-Robotics": {
-          "COURSE CODE": "U23PW729ME",
-          "CREDITS": "3"
-        },
-        "FINITE ELEMENT METHOD": {
-          "COURSE CODE": "U22PC710ME",
-          "CREDITS": "3"
-        },
-        "PRODUCTION DRAWING": {
-          "COURSE CODE": "U22PE720ME",
-          "CREDITS": "2"
-        },
-        "INDUSTRIAL ENGINEERING": {
-          "COURSE CODE": "U22PC730ME",
-          "CREDITS": "3"
-        },
-        "PROFESSIONAL ELECTIVE - I": {
-          "COURSE CODE": "U22PE7XXME",
-          "CREDITS": "3"
-        },
-        "PROFESSIONAL ELECTIVE - II": {
-          "COURSE CODE": "U22PE7XXME",
-          "CREDITS": "3"
-        },
-        "ECONOMICS AND FINANCE FOR ENGINEERS": {
-          "COURSE CODE": "U22HS040EH",
-          "CREDITS": "2"
-        },
-        "COMPUTER AIDED ENGINEERING LAB": {
-          "COURSE CODE": "U22PC711ME",
-          "CREDITS": "1"
-        },
-        "PROJECT SEMINAR": {
-          "COURSE CODE": "U22PW719ME",
-          "CREDITS": "1"
-        },
         "ROBOTICS AND CONTROL": {
-          "COURSE CODE": "U22PC760ME",
+          "COURSE CODE": "U24PC760ME",
           "CREDITS": "3"
         },
         "ROBOTICS LAB": {
-          "COURSE CODE": "U22PC731ME",
+          "COURSE CODE": "U24PC770ME",
           "CREDITS": "1"
         },
         "COURSE PROJECT": {
-          "COURSE CODE": "U22PW729ME",
+          "COURSE CODE": "U24PW729ME",
           "CREDITS": "3"
+        },
+        "FINITE ELEMENT METHOD": {
+          "COURSE CODE": "U23PC710ME",
+          "CREDITS": "3"
+        },
+        "PRODUCTION DRAWING": {
+          "COURSE CODE": "U23PE720ME",
+          "CREDITS": "2"
+        },
+        "INDUSTRIAL ENGINEERING": {
+          "COURSE CODE": "U23PC730ME",
+          "CREDITS": "3"
+        },
+        "REFRIGERATION AND AIR CONDITIONING": {
+          "COURSE CODE": "U23PC740ME",
+          "CREDITS": "3"
+        },
+        "PROFESSIONAL ELECTIVE - I": {
+          "COURSE CODE": "U23PE7XXME",
+          "CREDITS": "1"
+        },
+        "PROFESSIONAL ELECTIVE - II": {
+          "COURSE CODE": "U23PE7XXME",
+          "CREDITS": "1"
+        },
+        "NPTEL COURSE CERTIFICATION": {
+          "COURSE CODE": "U23PEXXXME",
+          "CREDITS": "2"
+        },
+        "COMPUTER AIDED ENGINEERING LAB": {
+          "COURSE CODE": "U23PC711ME",
+          "CREDITS": "1"
+        },
+        "PROJECT SEMINAR": {
+          "COURSE CODE": "U23PW719ME",
+          "CREDITS": "1"
         }
       },
       "8": {
         "PROFESSIONAL ELECTIVE-III": {
-          "COURSE CODE": "U22PE8XXME",
+          "COURSE CODE": "U23PE8XXME",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE-IV": {
-          "COURSE CODE": "U22PE8XXME",
+          "COURSE CODE": "U23PE8XXME",
           "CREDITS": "3"
         },
         "PROJECT / INTERNSHIP": {
-          "COURSE CODE": "U22PW819ME",
+          "COURSE CODE": "U23PW819ME",
           "CREDITS": "6"
         }
       }
@@ -2451,278 +2519,250 @@
     "COMPUTER SCIENCE AND ENGINEERING": {
       "2": {
         "ADVANCED ALGORITHMS": {
-          "COURSE CODE": "PI25PC210CS",
+          "COURSE CODE": "PI26PC210CS",
           "CREDITS": "3"
         },
-        "DATA MINING": {
-          "COURSE CODE": "PI25PC220CS",
+        "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING": {
+          "COURSE CODE": "PI26PC220CS",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE -III": {
-          "COURSE CODE": "PI25PE2XXCS",
+          "COURSE CODE": "PI26PE2XXCS",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE": {
-          "COURSE CODE": "PI25PE2XXCS",
+          "COURSE CODE": "PI26PE2XXCS",
           "CREDITS": "3"
         },
         "AUDIT COURSE-II: PEDAGOGY STUDIES": {
-          "COURSE CODE": "PI25AC210EH",
+          "COURSE CODE": "PI26AC210EH",
           "CREDITS": "0"
         },
         "ADVANCED ALGORITHMS LAB": {
-          "COURSE CODE": "PI25PC211CS",
+          "COURSE CODE": "PI26PC211CS",
           "CREDITS": "2"
         },
         "PROFESSIONAL ELECTIVE -III LAB": {
-          "COURSE CODE": "PI25PC221CS",
+          "COURSE CODE": "PI26PC221CS",
           "CREDITS": "2"
         },
         "MINI PROJECT WITH SEMINAR": {
-          "COURSE CODE": "PI25PW219CS",
+          "COURSE CODE": "PI26PW219CS",
           "CREDITS": "2"
         }
       },
       "1": {
         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE": {
-          "COURSE CODE": "PI25PC110CS",
+          "COURSE CODE": "PI26PC110CS",
           "CREDITS": "3"
         },
         "ADVANCED DATA STRUCTURES": {
-          "COURSE CODE": "PI25PC120CS",
+          "COURSE CODE": "PI26PC120CS",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE - I": {
-          "COURSE CODE": "PI25PE1XXCS",
+          "COURSE CODE": "PI26PE1XXCS",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE - II": {
-          "COURSE CODE": "PI25PE1XXCS",
+          "COURSE CODE": "PI26PE1XXCS",
           "CREDITS": "3"
         },
         "RESEARCH METHODOLOGY AND IPR": {
-          "COURSE CODE": "PI25AC140ME",
+          "COURSE CODE": "PI26AC140ME",
           "CREDITS": "2"
         },
         "AUDIT COURSE-I: ENGLISH FOR RESEARCH PAPER WRITING": {
-          "COURSE CODE": "PI25AC110EH",
+          "COURSE CODE": "PI26AC110EH",
           "CREDITS": "0"
         },
         "ADVANCED DATA STRUCTURES LAB": {
-          "COURSE CODE": "PI25PC121CS",
+          "COURSE CODE": "PI26PC121CS",
           "CREDITS": "2"
         },
         "PROFESSIONAL ELECTIVE - I LAB": {
-          "COURSE CODE": "PI25PE131CS",
+          "COURSE CODE": "PI26PE131CS",
           "CREDITS": "2"
         }
       },
       "4": {
         "DISSERTATION - PHASE II": {
-          "COURSE CODE": "PI24PW419CS",
+          "COURSE CODE": "PI25PW419CS",
           "CREDITS": "16"
         }
       },
       "3": {
         "PROFESSIONAL ELECTIVE - IV": {
-          "COURSE CODE": "PI24PE3XXCS",
+          "COURSE CODE": "PI25PE3XXCS",
           "CREDITS": "3"
         },
-        "PROFESSIONAL ELECTIVE -V": {
-          "COURSE CODE": "PI24OE3XXXX",
+        "PROFESSIONAL ELECTIVE - V": {
+          "COURSE CODE": "PI25PE3XXXX",
           "CREDITS": "3"
         },
         "DISSERTATION - PHASE-I / INDUSTRIAL PROJECT": {
-          "COURSE CODE": "PI24PW319CS",
+          "COURSE CODE": "PI25PW319CS",
           "CREDITS": "10"
-        }
-      }
-    },
-    "ELECTRICAL AND ELECTRONICS ENGINEERING": {
-      "1": {
-        "PROFESSIONAL CORE-I: ADVANCED COMPUTER METHODS IN POWER SYSTEMS": {
-          "COURSE CODE": "PI25PC110EE",
-          "CREDITS": "3"
-        },
-        "PROFESSIONAL CORE-II: POWER ELECTRONICS CONTROLLED ELECTRIC DRIVES": {
-          "COURSE CODE": "PI25PC120EE",
-          "CREDITS": "3"
-        },
-        "PROFESSIONAL ELECTIVE -I": {
-          "COURSE CODE": "PI25PE1XXEE",
-          "CREDITS": "3"
-        },
-        "PROFESSIONAL ELECTIVE-II": {
-          "COURSE CODE": "PI25PE1XXEE",
-          "CREDITS": "3"
-        },
-        "RESEARCH METHODOLOGY & IPR": {
-          "COURSE CODE": "PI25PC240ME",
-          "CREDITS": "2"
-        },
-        "AUDIT COURSE I: ENGLISH FOR RESEARCH PAPER WRITING": {
-          "COURSE CODE": "PI25AC110EH",
-          "CREDITS": "0"
-        },
-        "POWER SYSTEMS SIMULATION LAB": {
-          "COURSE CODE": "PI25PC111EE",
-          "CREDITS": "2"
-        },
-        "POWER ELECTRONICS SIMULATION LAB": {
-          "COURSE CODE": "PI25PC121EE",
-          "CREDITS": "2"
-        }
-      },
-      "2": {
-        "PROFESSIONAL CORE-III: (POWER SYSTEM STABILITY)": {
-          "COURSE CODE": "PI25PC210EE",
-          "CREDITS": "3"
-        },
-        "PROFESSIONAL CORE-IV : (APPLICATION OF POWER ELECTRONICS TO POWER SYSTEMS )": {
-          "COURSE CODE": "PI25PC220EE",
-          "CREDITS": "3"
-        },
-        "PROFESSIONAL ELECTIVE -III": {
-          "COURSE CODE": "PI25PC2XXEE",
-          "CREDITS": "3"
-        },
-        "OPEN ELECTIVE": {
-          "COURSE CODE": "PI25OE3XXXX",
-          "CREDITS": "3"
-        },
-        "AUDIT COURSE (PEDAGOGY STUDIES)": {
-          "COURSE CODE": "PI25AC210EH",
-          "CREDITS": "0"
-        },
-        "POWER SYSTEMS & POWER ELECTRONICS LAB": {
-          "COURSE CODE": "PI25PC211EE",
-          "CREDITS": "2"
-        },
-        "PROGRAMMABLE LOGIC CONTROLLER & APPLICATIONS LAB": {
-          "COURSE CODE": "PI25PC221EE",
-          "CREDITS": "2"
-        },
-        "MINI PROJECT WITH SEMINAR": {
-          "COURSE CODE": "PI25PW219EE",
-          "CREDITS": "2"
-        }
-      },
-      "3": {
-        "PROFESSIONAL ELECTIVE-IV": {
-          "COURSE CODE": "PI25PE2XXEE",
-          "CREDITS": "3"
-        },
-        "PROFESSIONAL ELECTIVE-V": {
-          "COURSE CODE": "PI25PE3XXEE",
-          "CREDITS": "3"
-        },
-        "DISSERTATION-PHASE I / INTERNSHIP": {
-          "COURSE CODE": "PI25PW319EE",
-          "CREDITS": "10"
-        }
-      },
-      "4": {
-        "PHASE II DISSERTATION / INTERNSHIP": {
-          "COURSE CODE": "PI25PW419EE",
-          "CREDITS": "16"
         }
       }
     },
     "ELECTRONICS AND COMMUNICATION ENGINEERING": {
       "1": {
         "PROFESSIONAL CORE-I: ADVANCED EMBEDDED SYSTEM DESIGN": {
-          "COURSE CODE": "P25PC110EC",
+          "COURSE CODE": "P26PC110EC",
           "CREDITS": "3"
         },
         "PROFESSIONAL CORE-II: ANALOG AND DIGITAL VLSI DESIGN": {
-          "COURSE CODE": "P25PC120EC",
+          "COURSE CODE": "P26PC120EC",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE - I": {
-          "COURSE CODE": "P25PE1XXEC",
+          "COURSE CODE": "P26PE1XXEC",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE - II": {
-          "COURSE CODE": "P25PE1XXEC",
+          "COURSE CODE": "P26PE1XXEC",
           "CREDITS": "3"
         },
         "RESEARCH METHODOLOGY AND IPR": {
-          "COURSE CODE": "P25PC140ME",
+          "COURSE CODE": "P26PC140ME",
           "CREDITS": "2"
         },
         "AUDIT COURSE-I: ENGLISH FOR RESEARCH PAPER WRITING": {
-          "COURSE CODE": "P25AC110EH",
+          "COURSE CODE": "P26AC110EH",
           "CREDITS": "0"
         },
         "ADVANCED EMBEDDED SYSTEMS LABORATORY": {
-          "COURSE CODE": "P25PC111EC",
+          "COURSE CODE": "P26PC111EC",
           "CREDITS": "2"
         },
         "ANALOG AND DIGITAL VLSI DESIGN LABORATORY": {
-          "COURSE CODE": "P25PC121EC",
+          "COURSE CODE": "P26PC121EC",
           "CREDITS": "2"
         }
       },
       "2": {
         "PROFESSIONAL CORE-III: EMBEDDED REAL TIME OPERATING SYSTEMS": {
-          "COURSE CODE": "P25PC210EC",
+          "COURSE CODE": "P26PC210EC",
           "CREDITS": "3"
         },
         "PROFESSIONAL CORE-IV: VLSI PHYSICAL DESIGN": {
-          "COURSE CODE": "P25PC220EC",
+          "COURSE CODE": "P26PC220EC",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE - III": {
-          "COURSE CODE": "P25PE2XXEC",
+          "COURSE CODE": "P26PE2XXEC",
           "CREDITS": "3"
         },
         "OPEN ELECTIVE": {
-          "COURSE CODE": "P25OE2XXXX",
+          "COURSE CODE": "P26OE2XXXX",
           "CREDITS": "3"
         },
         "AUDIT COURSE-II: PEDAGOGY STUDIES": {
-          "COURSE CODE": "P25AC210EH",
+          "COURSE CODE": "P26AC210EH",
           "CREDITS": "0"
         },
         "EMBEDDED SYSTEM APPLICATIONS LABORATORY": {
-          "COURSE CODE": "P25PC211EC",
+          "COURSE CODE": "P26PC211EC",
           "CREDITS": "2"
         },
         "VLSI PHYSICAL DESIGN LABORATORY": {
-          "COURSE CODE": "P25PC221EC",
+          "COURSE CODE": "P26PC221EC",
           "CREDITS": "2"
         },
         "MINI PROJECT WITH SEMINAR": {
-          "COURSE CODE": "P25PW219EC",
+          "COURSE CODE": "P26PW219EC",
           "CREDITS": "2"
         }
       },
       "3": {
         "PROFESSIONAL ELECTIVE - IV": {
-          "COURSE CODE": "P25PE3XXEC",
+          "COURSE CODE": "P26PE3XXEC",
           "CREDITS": "3"
         },
         "PROFESSIONAL ELECTIVE - V": {
-          "COURSE CODE": "P25PE3XXEC",
+          "COURSE CODE": "P26PE3XXEC",
           "CREDITS": "3"
         },
         "DISSERTATION - PHASE-I / INTERNSHIP": {
-          "COURSE CODE": "P25PW319EC",
+          "COURSE CODE": "P26PW319EC",
           "CREDITS": "10"
         }
       },
       "4": {
         "DISSERTATION - PHASE II / INTERNSHIP": {
-          "COURSE CODE": "P25PW419EC",
+          "COURSE CODE": "P26PW419EC",
           "CREDITS": "16"
         }
       }
     },
     "MECHANICAL ENGINEERING": {
-      "4": {
-        "DISSERTATION - PHASE II / INTERNSHIP": {
-          "COURSE CODE": "PI25PW419ME",
-          "CREDITS": "16"
+      "2": {
+        "DESIGN FOR MANUFACTURE AND ASSEMBLY": {
+          "COURSE CODE": "PI26PC210ME",
+          "CREDITS": "3"
+        },
+        "METALLURGY OF CASTING AND WELDING": {
+          "COURSE CODE": "PI26PC220ME",
+          "CREDITS": "3"
+        },
+        "PROFESSIONAL ELECTIVE-III": {
+          "COURSE CODE": "PI26PEXXXME",
+          "CREDITS": "3"
+        },
+        "OPEN ELECTIVE": {
+          "COURSE CODE": "PI26OEXXXME",
+          "CREDITS": "3"
+        },
+        "AUDIT COURSE 2: PEDAGOGY STUDIES": {
+          "COURSE CODE": "PI26AC210EH",
+          "CREDITS": "0"
+        },
+        "VIBRATION ANALYSIS LAB": {
+          "COURSE CODE": "PI26PC231ME",
+          "CREDITS": "2"
+        },
+        "COMPUTER AIDED SIMULATION LAB": {
+          "COURSE CODE": "PI26PC241ME",
+          "CREDITS": "2"
+        },
+        "MINI PROJECT": {
+          "COURSE CODE": "PI26PW219ME",
+          "CREDITS": "2"
+        }
+      },
+      "1": {
+        "METAL CUTTING AND FORMING": {
+          "COURSE CODE": "PI26PC100ME",
+          "CREDITS": "3"
+        },
+        "COMPUTER INTEGRATED DESIGN AND MANUFACTURING": {
+          "COURSE CODE": "PI26PC110ME",
+          "CREDITS": "3"
+        },
+        "PROFESSIONAL ELECTIVE-I": {
+          "COURSE CODE": "PI26PEXXXXME",
+          "CREDITS": "3"
+        },
+        "PROFESSIONAL ELECTIVE-II": {
+          "COURSE CODE": "PI26PEXXXXME",
+          "CREDITS": "3"
+        },
+        "RESEARCH METHODOLOGY AND IPR": {
+          "COURSE CODE": "PI26PC140ME",
+          "CREDITS": "2"
+        },
+        "AUDIT COURSE I - ENGLISH FOR RESEARCH PAPER WRITING": {
+          "COURSE CODE": "PI26AC110EH",
+          "CREDITS": "0"
+        },
+        "COMPUTER AIDED MODELLING AND ASSEMBLY LAB": {
+          "COURSE CODE": "PI26PC111ME",
+          "CREDITS": "2"
+        },
+        "ADVANCED MANUFACTURING LAB": {
+          "COURSE CODE": "PI26PC121ME",
+          "CREDITS": "2"
         }
       },
       "3": {
@@ -2737,98 +2777,12 @@
         "DISSERTATION - PHASE I / INTERNSHIP": {
           "COURSE CODE": "PI25PW319ME",
           "CREDITS": "10"
-        },
-        "ADVANCED FINITE ELEMENT ANALYSIS": {
-          "COURSE CODE": "PI25PE300ME",
-          "CREDITS": "0"
-        },
-        "COMPUTER AIDED MECHANICAL DESIGN AND ANALYSIS": {
-          "COURSE CODE": "PI25PE310ME",
-          "CREDITS": "0"
-        },
-        "MECHANICS OF COMPOSITE MATERIALS": {
-          "COURSE CODE": "PI25PE320ME",
-          "CREDITS": "0"
-        },
-        "ADVANCED NON-DESTRUCTIVE EVALUATION TECHNIQUES": {
-          "COURSE CODE": "PI25PE330ME",
-          "CREDITS": "0"
-        },
-        "ADDITIVE MANUFACTURING": {
-          "COURSE CODE": "PI25PE340ME",
-          "CREDITS": "0"
-        },
-        "MECHATRONICS": {
-          "COURSE CODE": "PI25PE350ME",
-          "CREDITS": "0"
         }
       },
-      "2": {
-        "DESIGN FOR MANUFACTURE AND ASSEMBLY": {
-          "COURSE CODE": "PI25PC210ME",
-          "CREDITS": "3"
-        },
-        "METALLURGY OF CASTING AND WELDING": {
-          "COURSE CODE": "PI25PC220ME",
-          "CREDITS": "3"
-        },
-        "PROFESSIONAL ELECTIVE-III": {
-          "COURSE CODE": "PI25PEXXXME",
-          "CREDITS": "3"
-        },
-        "OPEN ELECTIVE": {
-          "COURSE CODE": "PI250EXXXXME",
-          "CREDITS": "3"
-        },
-        "AUDIT COURSE 2: PEDAGOGY STUDIES": {
-          "COURSE CODE": "PI25AC210EH",
-          "CREDITS": "0"
-        },
-        "VIBRATION ANALYSIS LAB": {
-          "COURSE CODE": "PI25PC231ME",
-          "CREDITS": "2"
-        },
-        "COMPUTER AIDED SIMULATION LAB": {
-          "COURSE CODE": "PI25PC241ME",
-          "CREDITS": "2"
-        },
-        "MINI PROJECT": {
-          "COURSE CODE": "PI25PW219ME",
-          "CREDITS": "2"
-        }
-      },
-      "1": {
-        "METAL CUTTING AND FORMING": {
-          "COURSE CODE": "PI25PC100ME",
-          "CREDITS": "3"
-        },
-        "COMPUTER INTEGRATED DESIGN AND MANUFACTURING": {
-          "COURSE CODE": "PI25PC110ME",
-          "CREDITS": "3"
-        },
-        "PROFESSIONAL ELECTIVE-I": {
-          "COURSE CODE": "PI25PEXXXME",
-          "CREDITS": "3"
-        },
-        "PROFESSIONAL ELECTIVE-II": {
-          "COURSE CODE": "PI25PEXXXME",
-          "CREDITS": "3"
-        },
-        "RESEARCH METHODOLOGY AND IPR": {
-          "COURSE CODE": "PI25PC140ME",
-          "CREDITS": "2"
-        },
-        "AUDIT COURSE I - ENGLISH FOR RESEARCH PAPER WRITING": {
-          "COURSE CODE": "PI25AC110EH",
-          "CREDITS": "0"
-        },
-        "COMPUTER AIDED MODELLING AND ASSEMBLY LAB": {
-          "COURSE CODE": "PI25PC111ME",
-          "CREDITS": "2"
-        },
-        "ADVANCED MANUFACTURING LAB": {
-          "COURSE CODE": "PI25PC121ME",
-          "CREDITS": "2"
+      "4": {
+        "DISSERTATION - PHASE II / INTERNSHIP": {
+          "COURSE CODE": "PI25PW419ME",
+          "CREDITS": "16"
         }
       }
     }
