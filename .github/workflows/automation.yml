@@ -1,0 +1,37 @@
+name: Syllabus abstraction and deployment automation pipeline
+
+on:
+  # 1. Manual Trigger
+  workflow_dispatch: 
+  
+  # 2. Scheduled Trigger
+  schedule:
+    # Runs at 11:00 UTC (4:30 PM IST) every day (*) in August (8)
+    - cron: '0 11 * 8 *'
+
+permissions:
+  contents: write
+
+jobs:
+  execute-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      # Execute from the root, pointing to the scripts folder
+      - name: Run Python Trigger
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GROQ_API_KEY_1: ${{ secrets.GROQ_API_KEY_1 }}
+          GROQ_API_KEY_2: ${{ secrets.GROQ_API_KEY_2 }}
+        run: python auto-scripts/trigger.py
