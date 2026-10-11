@@ -43,7 +43,7 @@ def process_vision_data(
     Returns master_data dictionary on success, or None/False on failure.
     """
     # 1. Ollama Configuration & Client Initialization
-    ollama_host = os.getenv("OLLAMA_HOST", "http://192.168.0.13:11434")
+    ollama_host = os.getenv("OLLAMA_HOST", "http://192.168.0.8:11434")
     model_name = os.getenv("OLLAMA_MODEL", "qwen3.5:4b")
     ollama_api_key = os.getenv("OLLAMA_API_KEY")
     num_predict = int(os.getenv("OLLAMA_NUM_PREDICT", "4096"))
