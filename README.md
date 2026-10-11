@@ -3,7 +3,7 @@
 A static site SGPA calculator designed for the students of Vasavi College of Engineering.
 
 ## Live Demo
-https://sgpa.vce14.me/
+https://harshith397.github.io/sgpa/
 
 ## Key Features
 
@@ -45,7 +45,7 @@ To run this project locally:
 1. **Clone the repository:**
    ```bash
    git clone 
-   https://github.com/harshith397/scgpa-cal-vce.git
+   https://github.com/harshith397/sgpa.git
    cd vce-sgpa-calc
    ```
 
